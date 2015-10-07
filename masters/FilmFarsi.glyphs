@@ -6,8 +6,10 @@ DisplayStrings = (
 "/hah-ar",
 "/feh-ar"
 );
-date = "2015-10-04 17:59:24 +0000";
-familyName = "new Font";
+copyright = "Copyright (c) 2015, Borna Izadpanah (<borna.izad@gmail.com>).";
+date = "2015-10-07 07:38:56 +0000";
+designer = "Borna Izadpanah";
+familyName = "FilmFarsi";
 fontMaster = (
 {
 alignmentZones = (
