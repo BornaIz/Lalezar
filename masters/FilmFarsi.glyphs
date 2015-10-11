@@ -6,14 +6,14 @@ familyName = "FilmFarsi";
 fontMaster = (
 {
 alignmentZones = (
-"{1500, 15}",
-"{1200, 15}",
-"{850, 15}",
+"{1700, 15}",
+"{1050, 15}",
+"{1000, 15}",
 "{0, -15}",
 "{-1000, -15}"
 );
-ascender = 1500;
-capHeight = 1200;
+ascender = 1700;
+capHeight = 1000;
 descender = -1000;
 guideLines = (
 {
@@ -24,7 +24,7 @@ position = "{267, 400}";
 id = "5483B82D-F897-45AA-9987-2D1C58E320E8";
 weightValue = 400;
 widthValue = 5;
-xHeight = 850;
+xHeight = 1050;
 }
 );
 glyphs = (
