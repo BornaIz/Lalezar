@@ -19,7 +19,7 @@ value = "Please read about the license agreement at: http://scripts.sil.org/cms/
 date = "2016-01-05 12:37:03 +0000";
 designer = "Borna Izadpanah";
 designerURL = www.borna.design;
-familyName = "FilmFarsi_V5";
+familyName = "FilmFarsi";
 featurePrefixes = (
 {
 automatic = 1;
