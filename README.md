@@ -1,4 +1,4 @@
-Film-Farsi, a multi-script display typeface for popular culture.
+Lalezar, a multi-script display typeface for popular culture.
 
 During the 1960s and 1970s a genre of filmmaking emerged in Iran, which was commonly known as Film-Farsi. The main focus of the films produced in this period was on popular subjects such as, sexual romances, musicals and unrealistic heroic characters. The movie posters designed to represent these films were also intended to exaggerate these elements by the use of provocative imagery and a particular type of display lettering. These bold and dynamic letterforms were so popular and widely used that perhaps one can consider them the most significant component of film posters in that period. 
 
