@@ -1,12 +1,6 @@
 {
 DisplayStrings = (
-ABCDEFGHzWKLMNOPQRSTUVWXYZLabcdefghYfaralijklmnopqrstuvwxyeza,
-"/seen_meem-ar.fina",
-"\U00A2\U00A4$/euro \U00A3\U00A5/approxequal ~\U00F7/emptyset =>/greaterequal/infinity/integral </lessequal \U00AC/minus \U00D7/notequal/partialdiff %/perthousand +\U00B1/product/radical/summation/uni25CC/lozenge |\U00A6@&\U00B6\U00A9\U00AE\U00A7/trademark \U00B0^/dagger/daggerdbl/percent-ar",
-"A\U00C1/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron \U00C2/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde \U00C4/Adieresismacron/Adotbelow \U00C0/Ahookabove/Amacron/Aogonek \U00C5\U00C3\U00C6B/Bdotbelow/Bstroke C/Cacute/Ccaron \U00C7/Cdotaccent D/Dafrican \U00D0/Dcaron/Dcircumflexbelow/Dcroat/Ddotbelow/Dlinebelow E\U00C9/Ecaron \U00CA/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde \U00CB/Edotaccent/Edotbelow \U00C8/Ehookabove/Emacron/Eogonek/Etilde FG/Gbreve/Gcaron/Gcommaaccent/Gdotaccent H/Hbar/Hdotbelow I\U00CD/Icaron \U00CE\U00CF/Idieresisacute/Idotaccent/Idotbelow \U00CC/Ihookabove/Imacron/Iogonek/Itilde JK/Kcommaaccent L/Lacute/Lcaron/Lcircumflexbelow/Lcommaaccent/Ldotbelow/Lslash M/Macute N/Nacute/Ncaron/Ncircumflexbelow/Ncommaaccent/Ndotaccent/Ndotbelow/Eng \U00D1O\U00D3/Ocaron \U00D4/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde \U00D6/Odieresismacron/Odotbelow \U00D2/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Omacron/Omacronacute/Omacrongrave \U00D8/Oslashacute \U00D5/Otildeacute/OE P\U00DEQR/Racute/Rcaron/Rcommaaccent/Rstroke S/Sacute/Scaron/Scedilla/Scommaaccent/Sdotbelow T/Tbar/Tcaron/Tcedilla/Tcircumflexbelow/Tcommaaccent/Tdotbelow/Tlinebelow U\U00DA/Ubar/Ucaron \U00DB\U00DC/Udieresisacute/Udieresiscaron/Udieresisgrave/Udieresismacron/Udotbelow \U00D9/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Umacron/Uogonek/Uring/Utilde VW/Wacute/Wcircumflex/Wdieresis/Wgrave XY\U00DD/Ycircumflex/Ydieresis/Ydotbelow/Ygrave/Yhookabove/Ytilde Z/Zacute/Zcaron/Zdotaccent/Zdotbelow a\U00E1/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron \U00E2/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde \U00E4/adieresismacron/adotbelow \U00E0/ahookabove/amacron/aogonek \U00E5\U00E3\U00E6b/bdotbelow c/cacute/ccaron \U00E7/cdotaccent d\U00F0/dcaron/dcircumflexbelow/dcroat/ddotbelow/dlinebelow e\U00E9/ecaron/ecedilla \U00EA/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde \U00EB/edotaccent/edotbelow \U00E8/ehookabove/emacron/eogonek/etilde fg/gbreve/gcaron/gcommaaccent/gdotaccent h/hbar/hdotbelow i/idotless \U00ED/icaron \U00EE\U00EF/idieresisacute/idotaccent/idotbelow \U00EC/ihookabove/imacron/iogonek/istroke/itilde jk/kcommaaccent l/lacute/lcaron/lcircumflexbelow/lcommaaccent/ldotbelow/lslash m/macute n/nacute/ncaron/ncircumflexbelow/ncommaaccent/ndotaccent/ndotbelow/eng \U00F1o\U00F3/ocaron \U00F4/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde \U00F6/odieresismacron/odotbelow \U00F2/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/omacron/omacronacute/omacrongrave \U00F8/oslashacute \U00F5/otildeacute/oe p\U00FEqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent/sdotbelow \U00DFt/tbar/tcaron/tcedilla/tcircumflexbelow/tcommaaccent/tdotbelow/tlinebelow u\U00FA/ubar/ucaron \U00FB\U00FC/udieresisacute/udieresiscaron/udieresisgrave/udieresismacron/udotbelow \U00F9/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/umacron/uogonek/uring/utilde vw/wacute/wcircumflex/wdieresis/wgrave xy\U00FD/ycircumflex/ydieresis/ydotbelow/ygrave/yhookabove/ytilde z/zacute/zcaron/zdotaccent/zdotbelow",
-"/parenleft-ar/parenright-ar",
-"A multi-scriptdisplLay typefacefor popular culture.",
-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+"/hamza-ar/alef-ar/alef-ar.fina/alefHamzaabove-ar/alefHamzaabove-ar.fina/alefHamzabelow-ar/alefHamzabelow-ar.fina/uni0672/uni0672.fina/uni0673/uni0673.fina/alefMadda-ar/alefMadda-ar.fina/alefWasla-ar/alefWasla-ar.fina/dotlessbeh-ar/dotlessbeh-ar.fina/dotlessbeh-ar.medi/dotlessbeh-ar.medi.wide/dotlessbeh-ar.init/dotlessbeh-ar.init.wide/beh-ar/beh-ar.fina/beh-ar.medi/beh-ar.init/peh-ar/peh-ar.fina/peh-ar.medi/peh-ar.init/teh-ar/teh-ar.fina/teh-ar.medi/teh-ar.init/theh-ar/theh-ar.fina/theh-ar.medi/theh-ar.init/tteh-ar/tteh-ar.fina/tteh-ar.medi/tteh-ar.init/jeem-ar/jeem-ar.fina/jeem-ar.medi/jeem-ar.init/tcheh-ar/tcheh-ar.fina/tcheh-ar.medi/tcheh-ar.init/hah-ar/hah-ar.comb/hah-ar.fina/hah-ar.fina.comb/hah-ar.medi/hah-ar.medi.comb/hah-ar.init/hah-ar.init.comb/khah-ar/khah-ar.fina/khah-ar.medi/khah-ar.init/dal-ar/dal-ar.comb/dal-ar.fina/dal-ar.fina.comb/thal-ar/thal-ar.fina/ddal-ar/ddal-ar.fina/reh-ar/reh-ar.comb/reh-ar.fina/reh-ar.fina.comb/zain-ar/zain-ar.fina/rreh-ar/rreh-ar.fina/jeh-ar/jeh-ar.fina/seen-ar/seen-ar.comb/seen-ar.fina/seen-ar.fina.comb/seen-ar.medi/seen-ar.medi.comb/seen-ar.init/seen-ar.init.alt/seen-ar.init.comb/sheen-ar/sheen-ar.fina/sheen-ar.medi/sheen-ar.init/sheen-ar.init.alt/sad-ar/sad-ar.comb/sad-ar.fina/sad-ar.fina.comb/sad-ar.medi/sad-ar.medi.comb/sad-ar.init/sad-ar.init.comb/dad-ar/dad-ar.fina/dad-ar.medi/dad-ar.init/tah-ar/tah-ar.comb/tah-ar.fina/tah-ar.fina.comb/tah-ar.medi/tah-ar.medi.comb/tah-ar.init/tah-ar.init.comb/zah-ar/zah-ar.fina/zah-ar.medi/zah-ar.init/ain-ar/ain-ar.comb/ain-ar.fina/ain-ar.fina.comb/ain-ar.medi/ain-ar.medi.comb/ain-ar.init/ain-ar.init.comb/ghain-ar/ghain-ar.fina/ghain-ar.medi/ghain-ar.init/feh-ar/feh-ar.fina/feh-ar.medi/feh-ar.init/veh-ar/veh-ar.fina/veh-ar.medi/veh-ar.init/dotlessfeh-ar/dotlessfeh-ar.fina/dotlessfeh-ar.medi/dotlessfeh-ar.init/dotlessqaf-ar/dotlessqaf-ar.fina/qaf-ar/qaf-ar.fina/qaf-ar.medi/qaf-ar.init/kaf-ar/kaf-ar.fina/kaf-ar.medi/kaf-ar.init/keheh-ar/keheh-ar.fina/keheh-ar.medi/keheh-ar.init/gaf-ar/gaf-ar.fina/gaf-ar.medi/gaf-ar.init/lam-ar/lam-ar.fina/lam-ar.medi/lam-ar.init/meem-ar/meem-ar.fina/meem-ar.medi/meem-ar.init/noon-ar/noon-ar.fina/noon-ar.medi/noon-ar.init/noonghunna-ar/noonghunna-ar.fina/heh-ar/heh-ar.comb/heh-ar.fina/heh-ar.fina.comb/heh-ar.medi/heh-ar.medi.alt/heh-ar.init/heh-ar.init.alt/uni06C0/uniFBA5/hehgoal-ar/hehgoal-ar.fina/hehgoal-ar.medi/hehgoal-ar.init/hehgoalHamzaabove-ar/hehgoalHamzaabove-ar.fina/hehDoachashmee-ar/hehDoachashmee-ar.fina/hehDoachashmee-ar.medi/hehDoachashmee-ar.init/tehMarbuta-ar/tehMarbuta-ar.fina/tehMarbutagoal-ar/tehMarbutagoal-ar.fina/waw-ar/waw-ar.fina/wawHamzaabove-ar/wawHamzaabove-ar.fina/alefMaksura-ar/alefMaksura-ar.fina/yeh-ar/yeh-ar.comb/yeh-ar.fina/yeh-ar.fina.comb/yeh-ar.medi/yeh-ar.init/yehHamzaabove-ar/yehHamzaabove-ar.fina/yehHamzaabove-ar.medi/yehHamzaabove-ar.init/yehbarree-ar/yehbarree-ar.fina/yehbarreeHamzaabove-ar/yehbarreeHamzaabove-ar.fina/kashida-ar/lam_alef-ar/lam_alef-ar.fina/lam_alef-ar.alt/lam_alefHamzaabove-ar/lam_alefHamzaabove-ar.fina/lam_alefHamzabelow-ar/lam_alefHamzabelow-ar.fina/lam_alefMadda-ar/lam_alefMadda-ar.fina/lam_alefWasla-ar/lam_alefWasla-ar.fina/beh_alef-ar.liga/beh_alef-ar.liga.dotless/beh_alefHamzaabove-ar.liga/beh_alefHamzabelow-ar.liga/beh_alefMadda-ar.liga/beh_reh-ar.fina/beh_zain-ar.fina/beh_meem-ar/beh_meem-ar.fina/beh_meem-ar.fina.liga/beh_meem-ar.medi/beh_meem-ar.medi.liga/beh_meem-ar.init/beh_meem-ar.init.liga/beh_meem-ar.liga/beh_noon-ar.fina/beh_heh-ar.medi/beh_heh-ar.init/beh_hehgoal-ar.medi.liga/beh_hehDoachashmee-ar.init.liga/beh_hehDoachashmee-ar.liga/beh_alefMaksura-ar/beh_alefMaksura-ar.fina/beh_alefMaksura-ar.fina.dotless/beh_yeh-ar/beh_yeh-ar.fina.liga/beh_yeh-ar.loclFAR.isol/beh_yehHamzaabove-ar/beh_yehHamzaabove-ar.fina/beh_yehbarree-ar.fina.liga/beh_yehbarree-ar.liga/peh_alef-ar.liga/peh_alefHamzaabove-ar.liga/peh_alefMadda-ar.liga/peh_reh-ar.fina/peh_zain-ar.fina/peh_meem-ar/peh_meem-ar.fina/peh_meem-ar.init/peh_meem-ar.medi/peh_noon-ar.fina/peh_heh-ar.init/peh_heh-ar.medi/peh_hehDoachashmee-ar.init.liga/peh_hehDoachashmee-ar.liga/peh_alefMaksura-ar/peh_yeh-ar/peh_yeh-ar.fina/peh_yehHamzaabove-ar/peh_yehHamzaabove-ar.fina/peh_yehbarree-ar.fina.liga/peh_yehbarree-ar.liga/teh_alef-ar.liga/teh_alefHamzaabove-ar.liga/teh_alefHamzabelow-ar.liga/teh_alefMadda-ar.liga/teh_reh-ar.fina/teh_zain-ar.fina/teh_meem-ar/teh_meem-ar.fina/teh_meem-ar.medi/teh_meem-ar.init/teh_noon-ar.fina/teh_heh-ar.medi/teh_heh-ar.init/teh_hehDoachashmee-ar.init.liga/teh_hehDoachashmee-ar.liga/teh_alefMaksura-ar/teh_alefMaksura-ar.fina/teh_yeh-ar/teh_yeh-ar.fina/teh_yehHamzaabove-ar/teh_yehHamzaabove-ar.fina/teh_yehbarree-ar.fina.liga/teh_yehbarree-ar.liga/theh_alef-ar.liga/theh_alefHamzaabove-ar.liga/theh_alefHamzabelow-ar.liga/theh_alefMadda-ar.liga/theh_reh-ar.fina/theh_zain-ar.fina/theh_meem-ar/theh_meem-ar.fina/theh_meem-ar.medi/theh_meem-ar.init/theh_noon-ar.fina/theh_heh-ar.medi/theh_heh-ar.init/theh_hehDoachashmee-ar.init.liga/theh_hehDoachashmee-ar.liga/theh_alefMaksura-ar/theh_alefMaksura-ar.fina/theh_yeh-ar/theh_yeh-ar.fina/theh_yehHamzaabove-ar/theh_yehHamzaabove-ar.fina/theh_yehbarree-ar.fina.liga/theh_yehbarree-ar.liga/tteh_alef-ar.liga/tteh_alefHamzaabove-ar.liga/tteh_alefMadda-ar.liga/tteh_reh-ar.fina.liga/tteh_zain-ar.fina.liga/tteh_noon-ar.fina.liga/tteh_hehDoachashmee-ar.init.liga/tteh_hehDoachashmee-ar.liga/tteh-ar_yeh-farsi.fina.liga/tteh-ar_yeh-farsi.liga/tteh_yehbarree-ar.fina.liga/tteh_yehbarree-ar.liga/jeem_yehbarree-ar.liga/tcheh_yehbarree-ar.liga/hah_alefMaksura-ar/hah_yehbarree-ar.liga/khah_alefMaksura-ar/khah_alefMaksura-ar.fina/khah_yeh-ar.fina/khah_yehHamzaabove-ar/khah_yehHamzaabove-ar.fina/khah_yehbarree-ar.liga/seen_reh-ar/seen_reh-ar.fina/seen_meem-ar/seen_meem-ar.medi/seen_meem-ar.init/seen_meem-ar.fina/seen_heh-ar.medi/seen_heh-ar.init/seen_alefMaksura-ar/seen_alefMaksura-ar.fina/seen_yeh-ar/seen_yeh-ar.fina/seen_beh_reh-ar.alt/seen_beh_zain-ar.alt/seen_zain-ar.fina.liga/seen_zain-ar.liga/seen_hehgoal-ar.init.liga/seen_hehgoal-ar.medi.liga/seen_yehHamzaabove-ar/seen_yehHamzaabove-ar.fina/seen_yehbarree-ar.fina.liga/seen_yehbarree-ar.liga/seen_dotless_beh_reh-ar.alt/sheen_reh-ar/sheen_reh-ar.fina/sheen_zain-ar.fina.liga/sheen_zain-ar.liga/sheen_meem-ar/sheen_meem-ar.fina/sheen_meem-ar.medi/sheen_meem-ar.init/sheen_heh-ar.medi/sheen_heh-ar.init/sheen_hehgoal-ar.init.liga/sheen_hehgoal-ar.medi.liga/sheen_alefMaksura-ar/sheen_alefMaksura-ar.fina/sheen_yeh-ar/sheen_yeh-ar.fina/sheen_yehHamzaabove-ar/sheen_yehHamzaabove-ar.fina/sheen_yehbarree-ar.fina.liga/sheen_yehbarree-ar.liga/sad_reh-ar/sad_reh-ar.fina/sad_zain-ar/sad_zain-ar.fina/sad_meem-ar/sad_meem-ar.init/sad_meem-ar.fina/sad_meem-ar.medi/sad_heh-ar.init.liga/sad_heh-ar.medi.liga/sad_alefMaksura-ar/sad_alefMaksura-ar.fina.liga/sad_yeh-ar/sad_yeh-ar.fina/sad_yehHamzaabove-ar/sad_yehHamzaabove-ar.fina/sad_yehbarree-ar.fina.liga/sad_yehbarree-ar.liga/dad_reh-ar/dad_reh-ar.fina/dad_zain-ar/dad_zain-ar.fina/dad_meem-ar/dad_meem-ar.init/dad_meem-ar.fina/dad_meem-ar.medi/dad_heh-ar.init.liga/dad_heh-ar.medi.liga/dad_alefMaksura-ar/dad_alefMaksura-ar.fina/dad_yeh-ar/dad_yeh-ar.fina/dad_yehHamzaabove-ar/dad_yehHamzaabove-ar.fina/dad_yehbarree-ar.fina.liga/dad_yehbarree-ar.liga/tah_yehbarree-ar.fina.liga/tah_yehbarree-ar.liga/zah_yehbarree-ar.fina.liga/zah_yehbarree-ar.liga/ain_yehbarree-ar.fina.liga/ain_yehbarree-ar.liga/ghain_yehbarree-ar.fina.liga/ghain_yehbarree-ar.liga/feh_alefMaksura-ar/feh_alefMaksura-ar.fina/feh_yeh-ar/feh_yehHamzaabove-ar/feh_yehbarree-ar.fina.liga/feh_yehbarree-ar.liga/uni0641064E0644065006440647/qaf_alefMaksura-ar/qaf_alefMaksura-ar.fina/qaf_yeh-ar/qaf_yehHamzaabove-ar/qaf_yehbarree-ar.fina.liga/qaf_yehbarree-ar.liga/kaf_alefMaksura-ar/kaf_alefMaksura-ar.fina/kaf_yeh-ar/kaf_yeh-ar.fina/kaf_yehHamzaabove-ar/kaf_yehHamzaabove-ar.fina/kaf_yehbarree-ar.fina.liga/kaf_yehbarree-ar.liga/keheh_yeh-ar/keheh_yehbarree-ar.fina.liga/keheh_yehbarree-ar.liga/gaf_alefMaksura-ar/gaf_alefMaksura-ar.fina/gaf_yeh-ar/gaf_yeh-ar.fina/gaf_yehHamzaabove-ar/gaf_yehHamzaabove-ar.fina/gaf_yehbarree-ar.fina.liga/gaf_yehbarree-ar.liga/lam_beh_meem-ar/lam_peh_meem-ar/lam_teh_meem-ar/lam_theh_meem-ar/uni064406440647/lam_meem-ar/lam_meem-ar.init/lam_noon_meem-ar/lam_alefMaksura-ar/lam_alefMaksura-ar.fina/lam_alefMaksura_meem-ar/lam_yeh-ar/lam_yeh-ar.fina/lam_yeh_meem-ar/lam_yehHamzaabove-ar/lam_yehHamzaabove-ar.fina/lam_yehHamzaabove_meem-ar/lam_yehbarree-ar.fina.liga/lam_yehbarree-ar.liga/meem_reh-ar.fina/meem_zain-ar.fina/meem_yehbarree-ar.fina.liga/meem_yehbarree-ar.liga/noon_alef-ar.liga/noon_alefHamzaabove-ar.liga/noon_alefHamzabelow-ar.liga/noon_alefMadda-ar.liga/noon_reh-ar.fina/noon_zain-ar.fina/noon_meem-ar/noon_meem-ar.fina/noon_meem-ar.medi/noon_meem-ar.init/noon_noon-ar.fina/noon_noon-ar.fina.liga/noon_heh-ar.medi/noon_heh-ar.init/noon_hehDoachashmee-ar.init.liga/noon_hehDoachashmee-ar.liga/noon_alefMaksura-ar/noon_alefMaksura-ar.fina/noon_yeh-ar/noon_yeh-ar.fina/noon_yehHamzaabove-ar/noon_yehHamzaabove-ar.fina/noon_yehbarree-ar.fina.liga/noon_yehbarree-ar.liga/hehgoal_yehbarree-ar.liga/alefMaksura_reh-ar.fina/alefMaksura_zain-ar.fina/alefMaksura_noon-ar.fina.liga/yeh_reh-ar.fina/yeh_zain-ar.fina/yeh_meem-ar/yeh_meem-ar.fina/yeh_meem-ar.medi/yeh_meem-ar.init/yeh_noon-ar.fina/yeh_heh-ar.medi/yeh_heh-ar.init/yeh_alef-ar.liga/yeh_alefHamzaabove-ar.liga/yeh_alefHamzabelow-ar.liga/yeh_alefMadda-ar.liga/yeh_noonghunna-ar.fina.liga/yeh_hehDoachashmee-ar.init.liga/yeh_hehDoachashmee-ar.liga/yeh_yehbarree-ar/yeh_yehbarree-ar.fina.liga/yehHamzaabove_alef-ar.liga/yehHamzaabove_alefHamzaabove-ar.liga/yehHamzaabove_alefHamzabelow-ar.liga/yehHamzaabove_alefMadda-ar.liga/yehHamzaabove_reh-ar.fina/yehHamzaabove_zain-ar.fina/yehHamzaabove_meem-ar/yehHamzaabove_meem-ar.fina/yehHamzaabove_meem-ar.medi/yehHamzaabove_meem-ar.init/yehHamzaabove_noon-ar.fina/yehHamzaabove_heh-ar.medi/yehHamzaabove_heh-ar.init/yehHamzaabove_hehDoachashmee-ar.init.liga/yehHamzaabove_hehDoachashmee-ar.liga/yehHamzaabove_alefMaksura-ar/yehHamzaabove_alefMaksura-ar.fina/yehHamzaabove_yeh-ar/yehHamzaabove_yeh-ar.fina/yehHamzaabove_yehHamzaabove-ar/yehHamzaabove_yehHamzaabove-ar.fina/yehHamzaabove_yehbarree-ar.fina.liga/yehHamzaabove_yehbarree-ar.liga/uighurkirghizyehHamzaabove_alefMaksura-ar/uighurkirghizyehHamzaabove_alefMaksura-ar.fina/allah-ar/uniFDFA/jeem_jeem-ar.init.liga/jeem_jeem-ar.liga/jeem_hah-ar.init.liga/jeem_hah-ar.liga/jeem_khah-ar.init.liga/jeem_khah-ar.liga/hah_jeem-ar.init.liga/hah_jeem-ar.liga/hah_hah-ar.init.liga/hah_hah-ar.liga/hah_khah-ar.init.liga/hah_khah-ar.liga/khah_jeem-ar.init.liga/khah_jeem-ar.liga/khah_hah-ar.init.liga/khah_hah-ar.liga/khah_khah-ar.init.liga/khah_khah-ar.liga/kaf_alef-ar.fina.liga/kaf_alef-ar.liga/kaf_lam-ar.fina.liga/kaf_lam-ar.medi.liga/kaf_lam-ar.init.liga/kaf_lam-ar.liga/keheh_alef-ar.fina.liga/keheh_alef-ar.liga/keheh_lam-ar.fina.liga/keheh_lam-ar.init.liga/keheh_lam-ar.liga/keheh_lam-ar.medi.liga/gaf_alef-ar.fina.liga/gaf_alef-ar.liga/gaf_lam-ar.fina.liga/gaf_lam-ar.init.liga/gaf_lam-ar.liga/gaf_lam-ar.medi.liga/heh_alefMaksura-ar/beh_yehFarsi-ar.fina.liga/beh_yehFarsi-ar.liga/peh_yehFarsi-ar.fina.liga/peh_yehFarsi-ar.liga/teh_yehFarsi-ar.fina.liga/teh_yehFarsi-ar.liga/theh_yehFarsi-ar.fina.liga/theh_yehFarsi-ar.liga/tteh_yehFarsi-ar.fina.liga/tteh_yehFarsi-ar.liga/seen_yehFarsi-ar.fina.liga/seen_yehFarsi-ar.liga/sheen_yehFarsi-ar.fina.liga/sheen_yehFarsi-ar.liga/sad_yehFarsi-ar.fina.liga/sad_yehFarsi-ar.liga/dad_yehFarsi-ar.fina.liga/dad_yehFarsi-ar.liga/feh_yehFarsi-ar.fina.liga/feh_yehFarsi-ar.liga/qaf_yehFarsi-ar.fina.liga/qaf_yehFarsi-ar.liga/keheh_yehFarsi-ar.fina.liga/keheh_yehFarsi-ar.liga/gaf_yehFarsi-ar.fina.liga/gaf_yehFarsi-ar.liga/lam_yehFarsi-ar.fina.liga/lam_yehFarsi-ar.liga/meem_yehFarsi-ar.liga/noon_yehFarsi-ar.fina.liga/noon_yehFarsi-ar.liga/yehHamzaabove_yehFarsi-ar.fina.liga/yehHamzaabove_yehFarsi-ar.liga/heh_yehFarsi-ar.liga/decimalseparator-ar/thousandseparator-ar/zero-ar/one-ar/two-ar/three-ar/four-ar/five-ar/six-ar/seven-ar/eight-ar/nine-ar/zero-persian/one-persian/two-persian/three-persian/four-persian/four-persian.urdu/five-persian/six-persian/seven-persian/seven-persian.urdu/eight-persian/nine-persian/fullstop-ar/comma-ar/semicolon-ar/question-ar/asterisk-ar/uni0601/uni0603/parenleft-ar/parenright-ar/uni060B/uniFDFC/percent-ar/tahabove-ar/dotabove-ar/dotbelow-ar/dotcenter-ar/twodotsverticalabove-ar/twodotsverticalbelow-ar/twodotshorizontalabove-ar/twodotshorizontalbelow-ar/threedotsdownabove-ar/threedotsdownbelow-ar/threedotsupabove-ar/threedotsupbelow-ar/wasla-ar/alefabove-ar/alefbelow-ar/hamzaabove-ar/hamzabelow-ar/hamzacenter-ar/fathatan-ar/dammatan-ar/kasratan-ar/fatha-ar/damma-ar/kasra-ar/shadda-ar/sukun-ar/madda-ar/noonghunnaabove-ar/sadLamAlefMaksuraabove-ar/be_heh-ar.medi.dlig/be_heh-ar.init.dlig/be_heh-ar.init.dot/be_heh-ar.medi.dotless/yehFarsi_noonghunna-ar.fina.liga/yehFarsi_noon-ar.fina.liga/yehFarsi_meem-ar.liga/yehFarsi_yehbarree-ar.fina.rlig/yehFarsi_reh-ar.fina.liga/yehFarsi_alef-ar.liga/yehFarsi_alefHamzaabove-ar.liga/yehFarsi-ar/yehFarsi-ar.medi/yehFarsi-ar.fina/yehFarsi-ar.init"
 );
 classes = (
 {
@@ -25,7 +19,7 @@ name = license;
 value = "Please read about the license agreement at: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web";
 }
 );
-date = "2016-01-18 16:50:20 +0000";
+date = "2016-01-22 23:01:25 +0000";
 designer = "Borna Izadpanah";
 designerURL = www.borna.design;
 familyName = "Lalezar";
@@ -9463,7 +9457,7 @@ unicode = 1E25;
 {
 color = 7;
 glyphname = i;
-lastChange = "2016-01-18 14:04:39 +0000";
+lastChange = "2016-01-20 00:10:00 +0000";
 layers = (
 {
 anchors = (
@@ -9516,18 +9510,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"169 509 OFFCURVE",
-"220 558 OFFCURVE",
-"220 595 CURVE SMOOTH",
-"220 632 OFFCURVE",
-"169 681 OFFCURVE",
-"130 681 CURVE SMOOTH",
-"90 681 OFFCURVE",
-"39 632 OFFCURVE",
-"39 595 CURVE SMOOTH",
-"39 558 OFFCURVE",
-"90 509 OFFCURVE",
-"130 509 CURVE SMOOTH"
+"167 513 OFFCURVE",
+"216 550 OFFCURVE",
+"216 595 CURVE SMOOTH",
+"216 640 OFFCURVE",
+"167 677 OFFCURVE",
+"130 677 CURVE SMOOTH",
+"92 677 OFFCURVE",
+"43 640 OFFCURVE",
+"43 595 CURVE SMOOTH",
+"43 550 OFFCURVE",
+"92 513 OFFCURVE",
+"130 513 CURVE SMOOTH"
 );
 }
 );
@@ -9902,7 +9896,7 @@ unicode = 0129;
 {
 color = 7;
 glyphname = j;
-lastChange = "2016-01-18 14:04:51 +0000";
+lastChange = "2016-01-20 00:10:09 +0000";
 layers = (
 {
 background = {
@@ -9956,18 +9950,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"169 509 OFFCURVE",
-"220 558 OFFCURVE",
-"220 595 CURVE SMOOTH",
-"220 632 OFFCURVE",
-"169 681 OFFCURVE",
-"130 681 CURVE SMOOTH",
-"90 681 OFFCURVE",
-"39 632 OFFCURVE",
-"39 595 CURVE SMOOTH",
-"39 558 OFFCURVE",
-"90 509 OFFCURVE",
-"130 509 CURVE SMOOTH"
+"167 513 OFFCURVE",
+"216 550 OFFCURVE",
+"216 595 CURVE SMOOTH",
+"216 640 OFFCURVE",
+"167 677 OFFCURVE",
+"130 677 CURVE SMOOTH",
+"92 677 OFFCURVE",
+"43 640 OFFCURVE",
+"43 595 CURVE SMOOTH",
+"43 550 OFFCURVE",
+"92 513 OFFCURVE",
+"130 513 CURVE SMOOTH"
 );
 },
 {
@@ -20975,19 +20969,79 @@ unicode = FECA;
 {
 color = 1;
 glyphname = "ain-ar.fina.comb";
-lastChange = "2016-01-08 00:08:15 +0000";
+lastChange = "2016-01-20 22:38:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{308, -355}";
+position = "{308, -345}";
 },
 {
 name = top;
 position = "{278, 400}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"255 70 OFFCURVE",
+"317 0 OFFCURVE",
+"459 0 CURVE",
+"459 186 LINE",
+"400 186 OFFCURVE",
+"365 190 OFFCURVE",
+"317 208 CURVE",
+"338 141 LINE",
+"382 192 OFFCURVE",
+"416 242 OFFCURVE",
+"440 303 CURVE",
+"440 376 OFFCURVE",
+"381 410 OFFCURVE",
+"298 410 CURVE SMOOTH",
+"243 410 OFFCURVE",
+"178 396 OFFCURVE",
+"111 367 CURVE",
+"109 331 OFFCURVE",
+"118 270 OFFCURVE",
+"128 257 CURVE",
+"174 257 OFFCURVE",
+"221 236 OFFCURVE",
+"237 145 CURVE",
+"248 129 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 262 LINE",
+"180 225 OFFCURVE",
+"30 96 OFFCURVE",
+"30 -57 CURVE SMOOTH",
+"30 -218 OFFCURVE",
+"160 -304 OFFCURVE",
+"317 -304 CURVE SMOOTH",
+"353 -304 OFFCURVE",
+"392 -301 OFFCURVE",
+"427 -289 CURVE",
+"428 -250 OFFCURVE",
+"415 -152 OFFCURVE",
+"407 -125 CURVE",
+"384 -126 OFFCURVE",
+"364 -127 OFFCURVE",
+"344 -127 CURVE SMOOTH",
+"240 -127 OFFCURVE",
+"174 -93 OFFCURVE",
+"174 -32 CURVE SMOOTH",
+"174 30 OFFCURVE",
+"235 90 OFFCURVE",
+"327 122 CURVE"
+);
+}
+);
+};
 components = (
 {
 name = connection_r;
@@ -21030,26 +21084,26 @@ nodes = (
 closed = 1;
 nodes = (
 "292 262 LINE",
-"180 225 OFFCURVE",
-"30 96 OFFCURVE",
-"30 -57 CURVE SMOOTH",
-"30 -218 OFFCURVE",
-"160 -304 OFFCURVE",
-"317 -304 CURVE SMOOTH",
-"359 -304 OFFCURVE",
-"403 -297 OFFCURVE",
-"447 -285 CURVE",
-"448 -246 OFFCURVE",
-"435 -148 OFFCURVE",
-"427 -121 CURVE",
-"397 -125 OFFCURVE",
-"370 -127 OFFCURVE",
-"344 -127 CURVE SMOOTH",
-"240 -127 OFFCURVE",
-"174 -93 OFFCURVE",
-"174 -32 CURVE SMOOTH",
-"174 30 OFFCURVE",
-"235 90 OFFCURVE",
+"179 211 OFFCURVE",
+"30 103 OFFCURVE",
+"30 -63 CURVE SMOOTH",
+"30 -216 OFFCURVE",
+"159 -300 OFFCURVE",
+"321 -300 CURVE SMOOTH",
+"355 -300 OFFCURVE",
+"391 -297 OFFCURVE",
+"427 -289 CURVE",
+"428 -255 OFFCURVE",
+"416 -159 OFFCURVE",
+"407 -125 CURVE",
+"390 -126 OFFCURVE",
+"372 -127 OFFCURVE",
+"354 -127 CURVE SMOOTH",
+"262 -127 OFFCURVE",
+"174 -106 OFFCURVE",
+"174 -31 CURVE SMOOTH",
+"174 31 OFFCURVE",
+"239 92 OFFCURVE",
 "327 122 CURVE"
 );
 }
@@ -59664,7 +59718,7 @@ unicode = 002E;
 {
 color = 6;
 glyphname = question;
-lastChange = "2016-01-03 15:55:24 +0000";
+lastChange = "2016-01-20 00:17:34 +0000";
 layers = (
 {
 components = (
@@ -59691,13 +59745,10 @@ nodes = (
 "134 644 CURVE SMOOTH",
 "105 644 OFFCURVE",
 "74 639 OFFCURVE",
-"39 628 CURVE",
-"62 479 LINE",
-"91 484 OFFCURVE",
-"118 487 OFFCURVE",
-"142 487 CURVE SMOOTH",
-"195 487 OFFCURVE",
-"231 475 OFFCURVE",
+"40 607 CURVE",
+"62 485 LINE",
+"140 493 OFFCURVE",
+"231 491 OFFCURVE",
 "231 460 CURVE SMOOTH",
 "231 439 OFFCURVE",
 "195 430 OFFCURVE",
@@ -59705,8 +59756,8 @@ nodes = (
 "115 430 OFFCURVE",
 "78 434 OFFCURVE",
 "43 441 CURVE",
-"24 426 LINE",
-"43 363 OFFCURVE",
+"35 437 LINE",
+"51 363 OFFCURVE",
 "55 277 OFFCURVE",
 "55 229 CURVE",
 "92 212 OFFCURVE",
@@ -61114,12 +61165,12 @@ unicode = 2002;
 {
 color = 11;
 glyphname = space;
-lastChange = "2016-01-03 15:28:09 +0000";
+lastChange = "2016-01-20 00:17:54 +0000";
 layers = (
 {
 layerId = "5483B82D-F897-45AA-9987-2D1C58E320E8";
 name = Display;
-width = 120;
+width = 150;
 }
 );
 unicode = 0020;
