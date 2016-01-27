@@ -1,0 +1,59 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:\.DS_Store
+FileLength:6148
+FileModTime:1453723965
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FilmFarsi-Display
+FamilyName:FilmFarsi
+StyleName:Display
+MenuName:FilmFarsi Display
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FilmFarsi Display
+WritingScript:Roman
+OutlineFileName:\FilmFarsi-Display.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:137580
+FileModTime:1453329493
+NameArray:0,Mac,4,FilmFarsi Display
+NameArray:0,Win,1,FilmFarsi Display
+NameArray:0,Win,16,FilmFarsi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FilmFarsi_V5-Display
+FamilyName:FilmFarsi_V5
+StyleName:Display
+MenuName:FilmFarsi_V5 Display
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FilmFarsi_V5 Display
+WritingScript:Roman
+OutlineFileName:\FilmFarsi_V5-Display.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:137464
+FileModTime:1453559315
+NameArray:0,Mac,4,FilmFarsi_V5 Display
+NameArray:0,Win,1,FilmFarsi_V5 Display
+NameArray:0,Win,16,FilmFarsi_V5
+%EndFont
+
