@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"[]/.notdef"
-);
 classes = (
 {
 code = "";
@@ -33119,13 +33116,13 @@ unicode = FC71;
 {
 color = 9;
 glyphname = "teh_meem-ar";
-lastChange = "2016-01-08 13:26:07 +0000";
+lastChange = "2016-02-09 21:19:50 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{409, -122}";
+position = "{429, -163}";
 },
 {
 name = bottom_2;
@@ -34318,13 +34315,13 @@ unicode = FC77;
 {
 color = 9;
 glyphname = "theh_meem-ar";
-lastChange = "2016-02-09 17:31:32 +0000";
+lastChange = "2016-02-09 21:19:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{512, -314}";
+position = "{461, -192}";
 },
 {
 name = bottom_2;
@@ -34336,11 +34333,11 @@ position = "{470, 0}";
 },
 {
 name = top_1;
-position = "{431, 822}";
+position = "{428, 769}";
 },
 {
 name = top_2;
-position = "{202, 309}";
+position = "{141, 264}";
 }
 );
 components = (
@@ -47704,7 +47701,7 @@ unicode = FC8B;
 {
 color = 9;
 glyphname = "noon_meem-ar";
-lastChange = "2016-02-09 17:45:27 +0000";
+lastChange = "2016-02-09 21:20:02 +0000";
 layers = (
 {
 anchors = (
@@ -47722,7 +47719,7 @@ position = "{470, 0}";
 },
 {
 name = top_1;
-position = "{410, 710}";
+position = "{423, 655}";
 },
 {
 name = top_2;
@@ -48969,7 +48966,7 @@ unicode = FC92;
 {
 color = 9;
 glyphname = "yeh_meem-ar";
-lastChange = "2016-02-09 17:09:27 +0000";
+lastChange = "2016-02-09 21:20:11 +0000";
 layers = (
 {
 anchors = (
@@ -48987,7 +48984,7 @@ position = "{340, 0}";
 },
 {
 name = top_1;
-position = "{461, 507}";
+position = "{461, 483}";
 },
 {
 name = top_2;
