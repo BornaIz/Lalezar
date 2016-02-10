@@ -5,7 +5,7 @@ code = "";
 name = DevaIMatras;
 }
 );
-copyright = "Copyright \U00A9 2015 by Borna Izadpanah (borna.izad@gmail.com). All rights reserved. ";
+copyright = "Copyright \U00A9 2015 by Borna Izadpanah (www.borna.design). All rights reserved. ";
 customParameters = (
 {
 name = trademark;
