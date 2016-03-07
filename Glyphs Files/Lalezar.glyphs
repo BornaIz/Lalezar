@@ -5,15 +5,19 @@ code = "";
 name = DevaIMatras;
 }
 );
-copyright = "Copyright \U00A9 2015 by Borna Izadpanah (www.borna.design). All rights reserved. ";
+copyright = "Copyright 2015 Borna Izadpanah (www.borna.design). ";
 customParameters = (
 {
 name = trademark;
-value = "FilmFarsi is a trademark of Borna Izadpanah";
+value = "Lalezar is a trademark of Borna Izadpanah";
 },
 {
 name = license;
-value = "Please read about the license agreement at: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
 }
 );
 date = "2016-02-12 20:47:19 +0000";
@@ -72127,5 +72131,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
