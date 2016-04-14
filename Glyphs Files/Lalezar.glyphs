@@ -16,7 +16,7 @@ name = license;
 value = "Please read about the license agreement at: http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web";
 }
 );
-date = "2016-02-12 20:47:19 +0000";
+date = "2016-03-24 15:00:28 +0000";
 designer = "Borna Izadpanah";
 designerURL = www.borna.design;
 familyName = "Lalezar";
@@ -84,23 +84,43 @@ alignmentZones = (
 "{0, -13}",
 "{-400, -7}"
 );
-ascender = 600;
+ascender = 1368;
 capHeight = 570;
 customParameters = (
 {
+name = winAscent;
+value = "979";
+},
+{
+name = winDescent;
+value = "588";
+},
+{
 name = typoAscender;
-value = "1368";
+value = "979";
 },
 {
 name = typoDescender;
-value = "-680";
+value = "-588";
 },
 {
 name = typoLineGap;
-value = "182";
+value = "0";
+},
+{
+name = hheaAscender;
+value = "979";
+},
+{
+name = hheaDescender;
+value = "-588";
+},
+{
+name = hheaLineGap;
+value = "0";
 }
 );
-descender = -400;
+descender = -680;
 guideLines = (
 {
 locked = 1;
@@ -121,7 +141,7 @@ GSCornerRadius = 10;
 GSOffsetHorizontal = -5;
 GSOffsetVertical = -5;
 };
-weightValue = 700;
+weightValue = 400;
 widthValue = 5;
 xHeight = 186;
 }
@@ -2161,7 +2181,7 @@ unicode = 0120;
 {
 color = 7;
 glyphname = H;
-lastChange = "2016-02-09 19:08:58 +0000";
+lastChange = "2016-03-24 14:57:16 +0000";
 layers = (
 {
 anchors = (
@@ -2191,6 +2211,11 @@ nodes = (
 }
 );
 };
+guideLines = (
+{
+position = "{323, 809}";
+}
+);
 layerId = "5483B82D-F897-45AA-9987-2D1C58E320E8";
 name = Regular;
 paths = (
