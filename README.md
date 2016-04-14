@@ -7,3 +7,7 @@ The current project, is an attempt to revive the appealing qualities in this gen
 During the coming months I shall provide the relevant visual and written material, which are effective in the development of this project. Additionally, there will be a deliberate attempt to clarify the objectives behind the design decisions that will be made. I would very much welcome any contribution or input that can improve this process and its outcome.
 
 ![Alt text](https://github.com/BornaIz/Lalezar/blob/master/Specimen%20files/PNG/Lalezar_Specimen_v1.000_01.png)
+
+![Alt text](https://github.com/BornaIz/Lalezar/blob/master/Specimen%20files/PNG/Lalezar_Specimen_v1.000_10.png)
+
+![Alt text](https://github.com/BornaIz/Lalezar/blob/master/Specimen%20files/PNG/Lalezar_Specimen_v1.000_11.png)
