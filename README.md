@@ -4,5 +4,5 @@ During the 1960s and 1970s a genre of filmmaking emerged in Iran, which was comm
 
 The current project, is an attempt to revive the appealing qualities in this genre of lettering and transform them into a modern Arabic display typeface and a suitable Latin companion. Although the main inspiration comes from a style of lettering that was used to represent the Persian language, inhere the objective is to design a typeface that can be used for most of the languages that use Arabic script for their written communication. 
 
-During the coming months I shall provide the relevant visual and written material, which are effective in the development of this project. Additionally, there will be a deliberate attempt to clarify the objectives behind the design decisions that will be made. I would very much welcome any contribution or input that can improve this process and its outcome. 
-https://github.com/BornaIz/Lalezar/blob/master/Specimen%20files/PNG/Lalezar_Specimen_v1.000_01.png
+During the coming months I shall provide the relevant visual and written material, which are effective in the development of this project. Additionally, there will be a deliberate attempt to clarify the objectives behind the design decisions that will be made. I would very much welcome any contribution or input that can improve this process and its outcome.
+![Alt text](https://github.com/BornaIz/Lalezar/blob/master/Specimen%20files/PNG/Lalezar_Specimen_v1.000_01.png)
