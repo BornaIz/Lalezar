@@ -26,7 +26,7 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 }
 );
-date = "2016-06-14 21:25:18 +0000";
+date = "2016-08-22 09:13:28 +0000";
 designer = "Borna Izadpanah";
 designerURL = www.borna.design;
 familyName = Lalezar;
@@ -71,7 +71,7 @@ name = fina;
 notes = "sub alef-ar by alef-ar.fina;\012sub alefHamzaabove-ar by alefHamzaabove-ar.fina;\012sub alefHamzabelow-ar by alefHamzabelow-ar.fina;\012sub alefMadda-ar by alefMadda-ar.fina;\012sub alefWasla-ar by alefWasla-ar.fina;\012sub dotlessbeh-ar by dotlessbeh-ar.fina;\012sub beh-ar by beh-ar.fina;\012sub peh-ar by peh-ar.fina;\012sub teh-ar by teh-ar.fina;\012sub theh-ar by theh-ar.fina;\012sub tteh-ar by tteh-ar.fina;\012sub jeem-ar by jeem-ar.fina;\012sub tcheh-ar by tcheh-ar.fina;\012sub hah-ar by hah-ar.fina;\012sub khah-ar by khah-ar.fina;\012sub dal-ar by dal-ar.fina;\012sub thal-ar by thal-ar.fina;\012sub ddal-ar by ddal-ar.fina;\012sub reh-ar by reh-ar.fina;\012sub zain-ar by zain-ar.fina;\012sub rreh-ar by rreh-ar.fina;\012sub jeh-ar by jeh-ar.fina;\012sub seen-ar by seen-ar.fina;\012sub sheen-ar by sheen-ar.fina;\012sub sad-ar by sad-ar.fina;\012sub dad-ar by dad-ar.fina;\012sub tah-ar by tah-ar.fina;\012sub zah-ar by zah-ar.fina;\012sub ain-ar by ain-ar.fina;\012sub ghain-ar by ghain-ar.fina;\012sub feh-ar by feh-ar.fina;\012sub veh-ar by veh-ar.fina;\012sub dotlessfeh-ar by dotlessfeh-ar.fina;\012sub dotlessqaf-ar by dotlessqaf-ar.fina;\012sub qaf-ar by qaf-ar.fina;\012sub kaf-ar by kaf-ar.fina;\012sub keheh-ar by keheh-ar.fina;\012sub gaf-ar by gaf-ar.fina;\012sub lam-ar by lam-ar.fina;\012sub meem-ar by meem-ar.fina;\012sub noon-ar by noon-ar.fina;\012sub noonghunna-ar by noonghunna-ar.fina;\012sub heh-ar by heh-ar.fina;\012sub hehgoal-ar by hehgoal-ar.fina;\012sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.fina;\012sub hehDoachashmee-ar by hehDoachashmee-ar.fina;\012sub tehMarbuta-ar by tehMarbuta-ar.fina;\012sub tehMarbutagoal-ar by tehMarbutagoal-ar.fina;\012sub waw-ar by waw-ar.fina;\012sub wawHamzaabove-ar by wawHamzaabove-ar.fina;\012sub alefMaksura-ar by alefMaksura-ar.fina;\012sub yeh-ar by yeh-ar.fina;\012sub yehHamzaabove-ar by yehHamzaabove-ar.fina;\012sub yeh-farsi by yeh-farsi.fina;\012sub yehbarree-ar by yehbarree-ar.fina;\012sub yehbarreeHamzaabove-ar by yehbarreeHamzaabove-ar.fina;\012sub lam_alef-ar by lam_alef-ar.fina;\012sub lam_alefHamzaabove-ar by lam_alefHamzaabove-ar.fina;\012sub lam_alefHamzabelow-ar by lam_alefHamzabelow-ar.fina;\012sub lam_alefMadda-ar by lam_alefMadda-ar.fina;\012sub lam_alefWasla-ar by lam_alefWasla-ar.fina;\012sub beh_meem-ar by beh_meem-ar.fina;\012sub beh_alefMaksura-ar by beh_alefMaksura-ar.fina;\012sub beh_yeh-ar by beh_yeh-ar.fina;\012sub beh_yehHamzaabove-ar by beh_yehHamzaabove-ar.fina;\012sub peh_meem-ar by peh_meem-ar.fina;\012sub peh_alefMaksura-ar by peh_alefMaksura-ar.fina;\012sub peh_yeh-ar by peh_yeh-ar.fina;\012sub peh_yehHamzaabove-ar by peh_yehHamzaabove-ar.fina;\012sub teh_meem-ar by teh_meem-ar.fina;\012sub teh_alefMaksura-ar by teh_alefMaksura-ar.fina;\012sub teh_yeh-ar by teh_yeh-ar.fina;\012sub teh_yehHamzaabove-ar by teh_yehHamzaabove-ar.fina;\012sub theh_meem-ar by theh_meem-ar.fina;\012sub theh_alefMaksura-ar by theh_alefMaksura-ar.fina;\012sub theh_yeh-ar by theh_yeh-ar.fina;\012sub theh_yehHamzaabove-ar by theh_yehHamzaabove-ar.fina;\012sub khah_alefMaksura-ar by khah_alefMaksura-ar.fina;\012sub khah_yehHamzaabove-ar by khah_yehHamzaabove-ar.fina;\012sub seen_reh-ar by seen_reh-ar.fina;\012sub seen_meem-ar by seen_meem-ar.fina;\012sub seen_alefMaksura-ar by seen_alefMaksura-ar.fina;\012sub seen_yeh-ar by seen_yeh-ar.fina;\012sub seen_zain-ar by seen_zain-ar.fina;\012sub seen_yehHamzaabove-ar by seen_yehHamzaabove-ar.fina;\012sub sheen_reh-ar by sheen_reh-ar.fina;\012sub sheen_zain-ar by sheen_zain-ar.fina;\012sub sheen_meem-ar by sheen_meem-ar.fina;\012sub sheen_alefMaksura-ar by sheen_alefMaksura-ar.fina;\012sub sheen_yeh-ar by sheen_yeh-ar.fina;\012sub sheen_yehHamzaabove-ar by sheen_yehHamzaabove-ar.fina;\012sub sad_reh-ar by sad_reh-ar.fina;\012sub sad_zain-ar by sad_zain-ar.fina;\012sub sad_alefMaksura-ar by sad_alefMaksura-ar.fina;\012sub sad_yeh-ar by sad_yeh-ar.fina;\012sub sad_yehHamzaabove-ar by sad_yehHamzaabove-ar.fina;\012sub dad_reh-ar by dad_reh-ar.fina;\012sub dad_zain-ar by dad_zain-ar.fina;\012sub dad_alefMaksura-ar by dad_alefMaksura-ar.fina;\012sub dad_yeh-ar by dad_yeh-ar.fina;\012sub dad_yehHamzaabove-ar by dad_yehHamzaabove-ar.fina;\012sub kaf_alefMaksura-ar by kaf_alefMaksura-ar.fina;\012sub kaf_yeh-ar by kaf_yeh-ar.fina;\012sub kaf_yehHamzaabove-ar by kaf_yehHamzaabove-ar.fina;\012sub gaf_alefMaksura-ar by gaf_alefMaksura-ar.fina;\012sub gaf_yeh-ar by gaf_yeh-ar.fina;\012sub gaf_yehHamzaabove-ar by gaf_yehHamzaabove-ar.fina;\012sub lam_alefMaksura-ar by lam_alefMaksura-ar.fina;\012sub lam_yeh-ar by lam_yeh-ar.fina;\012sub lam_yehHamzaabove-ar by lam_yehHamzaabove-ar.fina;\012sub noon_meem-ar by noon_meem-ar.fina;\012sub noon_alefMaksura-ar by noon_alefMaksura-ar.fina;\012sub noon_yeh-ar by noon_yeh-ar.fina;\012sub noon_yehHamzaabove-ar by noon_yehHamzaabove-ar.fina;\012sub yeh_meem-ar by yeh_meem-ar.fina;\012sub yehHamzaabove_meem-ar by yehHamzaabove_meem-ar.fina;\012sub yehHamzaabove_alefMaksura-ar by yehHamzaabove_alefMaksura-ar.fina;\012sub yehHamzaabove_yeh-ar by yehHamzaabove_yeh-ar.fina;\012sub yehHamzaabove_yehHamzaabove-ar by yehHamzaabove_yehHamzaabove-ar.fina;\012sub uighurkirghizyehHamzaabove_alefMaksura-ar by uighurkirghizyehHamzaabove_alefMaksura-ar.fina;\012";
 },
 {
-code = "lookupflag IgnoreMarks RightToLeft;\012sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;\012	sub lam-ar.init alef-ar.fina by lam_alef-ar;\012	sub lam-ar.medi alef-ar.fina by lam_alef-ar.fina;\012	sub lam-ar.init alefHamzaabove-ar.fina by lam_alefHamzaabove-ar;\012	sub lam-ar.medi alefHamzaabove-ar.fina by lam_alefHamzaabove-ar.fina;\012	sub lam-ar.init alefHamzabelow-ar.fina by lam_alefHamzabelow-ar;\012	sub lam-ar.medi alefHamzabelow-ar.fina by lam_alefHamzabelow-ar.fina;\012	sub lam-ar.init alefMadda-ar.fina by lam_alefMadda-ar;\012	sub lam-ar.medi alefMadda-ar.fina by lam_alefMadda-ar.fina;\012	sub lam-ar.init alefWasla-ar.fina by lam_alefWasla-ar;\012	sub lam-ar.medi alefWasla-ar.fina by lam_alefWasla-ar.fina;\012	sub lam-ar.init alefMaksura-ar.fina by lam_alefMaksura-ar;\012	sub lam-ar.medi alefMaksura-ar.fina by lam_alefMaksura-ar.fina;\012	sub lam-ar.init alefMaksura-ar meem-ar.fina by lam_alefMaksura_meem-ar;\012sub beh-ar.init alef-ar.fina by beh_alef-ar.liga;\012sub beh-ar.init alefHamzaabove-ar.fina by beh_alefHamzaabove-ar.liga;\012sub beh-ar.init alefHamzabelow-ar.fina by beh_alefHamzabelow-ar.liga;\012sub beh-ar.init alefMadda-ar.fina by beh_alefMadda-ar.liga;\012sub beh-ar.medi hehgoal-ar.medi by beh_hehgoal-ar.medi.liga;\012sub beh-ar.init hehDoachashmee-ar.medi by beh_hehDoachashmee-ar.init.liga;\012sub beh-ar.init hehDoachashmee-ar.fina by beh_hehDoachashmee-ar.liga;\012sub beh-ar.medi yeh-ar.fina by beh_yeh-ar.fina.liga;\012sub beh-ar.medi yehbarree-ar.fina by beh_yehbarree-ar.fina.liga;\012sub beh-ar.init yehbarree-ar.fina by beh_yehbarree-ar.liga;\012sub peh-ar.init alef-ar.fina by peh_alef-ar.liga;\012sub peh-ar.init alefHamzaabove-ar.fina by peh_alefHamzaabove-ar.liga;\012sub peh-ar.init alefMadda-ar.fina by peh_alefMadda-ar.liga;\012sub peh-ar.init hehDoachashmee-ar.medi by peh_hehDoachashmee-ar.init.liga;\012sub peh-ar.init hehDoachashmee-ar.fina by peh_hehDoachashmee-ar.liga;\012sub peh-ar.medi yehbarree-ar.fina by peh_yehbarree-ar.fina.liga;\012sub peh-ar.init yehbarree-ar.fina by peh_yehbarree-ar.liga;\012sub teh-ar.init alef-ar.fina by teh_alef-ar.liga;\012sub teh-ar.init alefHamzaabove-ar.fina by teh_alefHamzaabove-ar.liga;\012sub teh-ar.init alefHamzabelow-ar.fina by teh_alefHamzabelow-ar.liga;\012sub teh-ar.init alefMadda-ar.fina by teh_alefMadda-ar.liga;\012sub teh-ar.init hehDoachashmee-ar.medi by teh_hehDoachashmee-ar.init.liga;\012sub teh-ar.init hehDoachashmee-ar.fina by teh_hehDoachashmee-ar.liga;\012sub teh-ar.medi yehbarree-ar.fina by teh_yehbarree-ar.fina.liga;\012sub teh-ar.init yehbarree-ar.fina by teh_yehbarree-ar.liga;\012sub theh-ar.init alef-ar.fina by theh_alef-ar.liga;\012sub theh-ar.init alefHamzaabove-ar.fina by theh_alefHamzaabove-ar.liga;\012sub theh-ar.init alefHamzabelow-ar.fina by theh_alefHamzabelow-ar.liga;\012sub theh-ar.init alefMadda-ar.fina by theh_alefMadda-ar.liga;\012sub theh-ar.init hehDoachashmee-ar.medi by theh_hehDoachashmee-ar.init.liga;\012sub theh-ar.init hehDoachashmee-ar.fina by theh_hehDoachashmee-ar.liga;\012sub theh-ar.medi yehbarree-ar.fina by theh_yehbarree-ar.fina.liga;\012sub theh-ar.init yehbarree-ar.fina by theh_yehbarree-ar.liga;\012sub tteh-ar.init alef-ar.fina by tteh_alef-ar.liga;\012sub tteh-ar.init alefHamzaabove-ar.fina by tteh_alefHamzaabove-ar.liga;\012sub tteh-ar.init alefMadda-ar.fina by tteh_alefMadda-ar.liga;\012sub tteh-ar.medi reh-ar.fina by tteh_reh-ar.fina.liga;\012sub tteh-ar.medi zain-ar.fina by tteh_zain-ar.fina.liga;\012sub tteh-ar.medi noon-ar.fina by tteh_noon-ar.fina.liga;\012sub tteh-ar.init hehDoachashmee-ar.medi by tteh_hehDoachashmee-ar.init.liga;\012sub tteh-ar.init hehDoachashmee-ar.fina by tteh_hehDoachashmee-ar.liga;\012sub tteh-ar.medi yehbarree-ar.fina by tteh_yehbarree-ar.fina.liga;\012sub tteh-ar.init yehbarree-ar.fina by tteh_yehbarree-ar.liga;\012sub jeem-ar.init yehbarree-ar.fina by jeem_yehbarree-ar.liga;\012sub tcheh-ar.init yehbarree-ar.fina by tcheh_yehbarree-ar.liga;\012sub hah-ar.init yehbarree-ar.fina by hah_yehbarree-ar.liga;\012sub khah-ar.init yehbarree-ar.fina by khah_yehbarree-ar.liga;\012sub seen-ar.medi zain-ar.fina by seen_zain-ar.fina.liga;\012sub seen-ar.init zain-ar.fina by seen_zain-ar.liga;\012sub seen-ar.init hehgoal-ar.medi by seen_hehgoal-ar.init.liga;\012sub seen-ar.medi hehgoal-ar.medi by seen_hehgoal-ar.medi.liga;\012sub seen-ar.medi yehbarree-ar.fina by seen_yehbarree-ar.fina.liga;\012sub seen-ar.init yehbarree-ar.fina by seen_yehbarree-ar.liga;\012sub sheen-ar.medi zain-ar.fina by sheen_zain-ar.fina.liga;\012sub sheen-ar.init zain-ar.fina by sheen_zain-ar.liga;\012sub sheen-ar.init hehgoal-ar.medi by sheen_hehgoal-ar.init.liga;\012sub sheen-ar.medi hehgoal-ar.medi by sheen_hehgoal-ar.medi.liga;\012sub sheen-ar.medi yehbarree-ar.fina by sheen_yehbarree-ar.fina.liga;\012sub sheen-ar.init yehbarree-ar.fina by sheen_yehbarree-ar.liga;\012sub sad-ar.init heh-ar.medi by sad_heh-ar.init.liga;\012sub sad-ar.medi heh-ar.medi by sad_heh-ar.medi.liga;\012sub sad-ar.medi alefMaksura-ar.fina by sad_alefMaksura-ar.fina.liga;\012sub sad-ar.medi yehbarree-ar.fina by sad_yehbarree-ar.fina.liga;\012sub sad-ar.init yehbarree-ar.fina by sad_yehbarree-ar.liga;\012sub dad-ar.init heh-ar.medi by dad_heh-ar.init.liga;\012sub dad-ar.medi heh-ar.medi by dad_heh-ar.medi.liga;\012sub dad-ar.medi yehbarree-ar.fina by dad_yehbarree-ar.fina.liga;\012sub dad-ar.init yehbarree-ar.fina by dad_yehbarree-ar.liga;\012sub tah-ar.medi yehbarree-ar.fina by tah_yehbarree-ar.fina.liga;\012sub tah-ar.init yehbarree-ar.fina by tah_yehbarree-ar.liga;\012sub zah-ar.medi yehbarree-ar.fina by zah_yehbarree-ar.fina.liga;\012sub zah-ar.init yehbarree-ar.fina by zah_yehbarree-ar.liga;\012sub ain-ar.medi yehbarree-ar.fina by ain_yehbarree-ar.fina.liga;\012sub ain-ar.init yehbarree-ar.fina by ain_yehbarree-ar.liga;\012sub ghain-ar.medi yehbarree-ar.fina by ghain_yehbarree-ar.fina.liga;\012sub ghain-ar.init yehbarree-ar.fina by ghain_yehbarree-ar.liga;\012sub feh-ar.medi yehbarree-ar.fina by feh_yehbarree-ar.fina.liga;\012sub feh-ar.init yehbarree-ar.fina by feh_yehbarree-ar.liga;\012sub qaf-ar.medi yehbarree-ar.fina by qaf_yehbarree-ar.fina.liga;\012sub qaf-ar.init yehbarree-ar.fina by qaf_yehbarree-ar.liga;\012sub kaf-ar.medi yehbarree-ar.fina by kaf_yehbarree-ar.fina.liga;\012sub kaf-ar.init yehbarree-ar.fina by kaf_yehbarree-ar.liga;\012sub keheh-ar.medi yehbarree-ar.fina by keheh_yehbarree-ar.fina.liga;\012sub keheh-ar.init yehbarree-ar.fina by keheh_yehbarree-ar.liga;\012sub gaf-ar.medi yehbarree-ar.fina by gaf_yehbarree-ar.fina.liga;\012sub gaf-ar.init yehbarree-ar.fina by gaf_yehbarree-ar.liga;\012sub lam-ar.medi yehbarree-ar.fina by lam_yehbarree-ar.fina.liga;\012sub lam-ar.init yehbarree-ar.fina by lam_yehbarree-ar.liga;\012sub meem-ar.medi yehbarree-ar.fina by meem_yehbarree-ar.fina.liga;\012sub meem-ar.init yehbarree-ar.fina by meem_yehbarree-ar.liga;\012sub noon-ar.init alef-ar.fina by noon_alef-ar.liga;\012sub noon-ar.init alefHamzaabove-ar.fina by noon_alefHamzaabove-ar.liga;\012sub noon-ar.init alefHamzabelow-ar.fina by noon_alefHamzabelow-ar.liga;\012sub noon-ar.init alefMadda-ar.fina by noon_alefMadda-ar.liga;\012sub noon-ar.init hehDoachashmee-ar.medi by noon_hehDoachashmee-ar.init.liga;\012sub noon-ar.init hehDoachashmee-ar.fina by noon_hehDoachashmee-ar.liga;\012sub noon-ar.medi yehbarree-ar.fina by noon_yehbarree-ar.fina.liga;\012sub noon-ar.init yehbarree-ar.fina by noon_yehbarree-ar.liga;\012sub hehgoal-ar.init yehbarree-ar.fina by hehgoal_yehbarree-ar.liga;\012sub yeh-ar.init alef-ar.fina by yeh_alef-ar.liga;\012sub yeh-ar.init alefHamzaabove-ar.fina by yeh_alefHamzaabove-ar.liga;\012sub yeh-ar.init alefHamzabelow-ar.fina by yeh_alefHamzabelow-ar.liga;\012sub yeh-ar.init alefMadda-ar.fina by yeh_alefMadda-ar.liga;\012sub yeh-ar.medi noonghunna-ar.fina by yeh_noonghunna-ar.fina.liga;\012sub yeh-ar.init hehDoachashmee-ar.medi by yeh_hehDoachashmee-ar.init.liga;\012sub yeh-ar.init hehDoachashmee-ar.fina by yeh_hehDoachashmee-ar.liga;\012sub yeh-ar.medi yehbarree-ar.fina by yeh_yehbarree-ar.fina.liga;\012sub yehHamzaabove-ar.init alef-ar.fina by yehHamzaabove_alef-ar.liga;\012sub yehHamzaabove-ar.init alefHamzaabove-ar.fina by yehHamzaabove_alefHamzaabove-ar.liga;\012sub yehHamzaabove-ar.init alefHamzabelow-ar.fina by yehHamzaabove_alefHamzabelow-ar.liga;\012sub yehHamzaabove-ar.init alefMadda-ar.fina by yehHamzaabove_alefMadda-ar.liga;\012sub yehHamzaabove-ar.init hehDoachashmee-ar.medi by yehHamzaabove_hehDoachashmee-ar.init.liga;\012sub yehHamzaabove-ar.init hehDoachashmee-ar.fina by yehHamzaabove_hehDoachashmee-ar.liga;\012sub yehHamzaabove-ar.medi yehbarree-ar.fina by yehHamzaabove_yehbarree-ar.fina.liga;\012sub yehHamzaabove-ar.init yehbarree-ar.fina by yehHamzaabove_yehbarree-ar.liga;\012sub beh-ar.medi yehFarsi-ar.fina by beh_yehFarsi-ar.fina.liga;\012sub beh-ar.init yehFarsi-ar.fina by beh_yehFarsi-ar.liga;\012sub peh-ar.medi yehFarsi-ar.fina by peh_yehFarsi-ar.fina.liga;\012sub peh-ar.init yehFarsi-ar.fina by peh_yehFarsi-ar.liga;\012sub teh-ar.medi yehFarsi-ar.fina by teh_yehFarsi-ar.fina.liga;\012sub teh-ar.init yehFarsi-ar.fina by teh_yehFarsi-ar.liga;\012sub theh-ar.medi yehFarsi-ar.fina by theh_yehFarsi-ar.fina.liga;\012sub theh-ar.init yehFarsi-ar.fina by theh_yehFarsi-ar.liga;\012sub tteh-ar.medi yehFarsi-ar.fina by tteh_yehFarsi-ar.fina.liga;\012sub tteh-ar.init yehFarsi-ar.fina by tteh_yehFarsi-ar.liga;\012sub seen-ar.medi yehFarsi-ar.fina by seen_yehFarsi-ar.fina.liga;\012sub seen-ar.init yehFarsi-ar.fina by seen_yehFarsi-ar.liga;\012sub sheen-ar.medi yehFarsi-ar.fina by sheen_yehFarsi-ar.fina.liga;\012sub sheen-ar.init yehFarsi-ar.fina by sheen_yehFarsi-ar.liga;\012sub sad-ar.medi yehFarsi-ar.fina by sad_yehFarsi-ar.fina.liga;\012sub sad-ar.init yehFarsi-ar.fina by sad_yehFarsi-ar.liga;\012sub dad-ar.medi yehFarsi-ar.fina by dad_yehFarsi-ar.fina.liga;\012sub dad-ar.init yehFarsi-ar.fina by dad_yehFarsi-ar.liga;\012sub feh-ar.medi yehFarsi-ar.fina by feh_yehFarsi-ar.fina.liga;\012sub feh-ar.init yehFarsi-ar.fina by feh_yehFarsi-ar.liga;\012sub qaf-ar.medi yehFarsi-ar.fina by qaf_yehFarsi-ar.fina.liga;\012sub qaf-ar.init yehFarsi-ar.fina by qaf_yehFarsi-ar.liga;\012sub keheh-ar.medi yehFarsi-ar.fina by keheh_yehFarsi-ar.fina.liga;\012sub keheh-ar.init yehFarsi-ar.fina by keheh_yehFarsi-ar.liga;\012sub gaf-ar.medi yehFarsi-ar.fina by gaf_yehFarsi-ar.fina.liga;\012sub gaf-ar.init yehFarsi-ar.fina by gaf_yehFarsi-ar.liga;\012sub lam-ar.medi yehFarsi-ar.fina by lam_yehFarsi-ar.fina.liga;\012sub lam-ar.init yehFarsi-ar.fina by lam_yehFarsi-ar.liga;\012sub meem-ar.init yehFarsi-ar.fina by meem_yehFarsi-ar.liga;\012sub noon-ar.medi yehFarsi-ar.fina by noon_yehFarsi-ar.fina.liga;\012sub noon-ar.init yehFarsi-ar.fina by noon_yehFarsi-ar.liga;\012sub yehHamzaabove-ar.medi yehFarsi-ar.fina by yehHamzaabove_yehFarsi-ar.fina.liga;\012sub yehHamzaabove-ar.init yehFarsi-ar.fina by yehHamzaabove_yehFarsi-ar.liga;\012sub seen-ar beh-ar reh-ar by seen_beh_reh-ar.alt;\012	sub seen-ar beh-ar zain-ar by seen_beh_zain-ar.alt;\012	sub lam-ar.init beh-ar.medi meem-ar.fina by lam_beh_meem-ar;\012	sub lam-ar.init peh-ar.medi meem-ar.fina by lam_peh_meem-ar;\012	sub lam-ar.init teh-ar.medi meem-ar.fina by lam_teh_meem-ar;\012	sub lam-ar.init theh-ar.medi meem-ar.fina by lam_theh_meem-ar;\012	sub lam-ar.init noon-ar.medi meem-ar.fina by lam_noon_meem-ar;\012	sub lam-ar.init alefMaksura-ar meem-ar.fina by lam_alefMaksura_meem-ar;\012	sub lam-ar.init yeh-ar.medi meem-ar.fina by lam_yeh_meem-ar;\012	sub lam-ar.init yehHamzaabove-ar.medi meem-ar.fina by lam_yehHamzaabove_meem-ar;\012	sub lam-ar alef-ar by lam_alef-ar.alt;\012	sub beh-ar alef-ar by beh_alef-ar.liga.dotless;\012	sub beh-ar.medi reh-ar.fina by beh_reh-ar.fina;\012	sub beh-ar.medi zain-ar.fina by beh_zain-ar.fina;\012	sub beh-ar.init meem-ar.fina by beh_meem-ar;\012	sub beh-ar.medi meem-ar.fina by beh_meem-ar.fina;\012	sub beh-ar.medi meem-ar.medi by beh_meem-ar.medi;\012	sub beh-ar.init meem-ar.medi by beh_meem-ar.init;\012	sub beh-ar.medi noon-ar.fina by beh_noon-ar.fina;\012	sub beh-ar.medi heh-ar.medi by beh_heh-ar.medi;\012	sub beh-ar.init heh-ar.medi by beh_heh-ar.init;\012	sub beh-ar.init alefMaksura-ar.fina by beh_alefMaksura-ar;\012	sub beh-ar.medi alefMaksura-ar.fina by beh_alefMaksura-ar.fina;\012	sub beh-ar.fina alefMaksura-ar.fina by beh_alefMaksura-ar.fina.dotless;\012	sub beh-ar.init yeh-ar.fina by beh_yeh-ar;\012	sub beh-ar yeh-ar by beh_yeh-ar.loclFAR.isol;\012	sub beh-ar.init yehHamzaabove-ar.fina by beh_yehHamzaabove-ar;\012	sub beh-ar.medi yehHamzaabove-ar.fina by beh_yehHamzaabove-ar.fina;\012	sub peh-ar.medi reh-ar.fina by peh_reh-ar.fina;\012	sub peh-ar.medi zain-ar.fina by peh_zain-ar.fina;\012	sub peh-ar.init meem-ar.fina by peh_meem-ar;\012	sub peh-ar.medi meem-ar.fina by peh_meem-ar.fina;\012	sub peh-ar.init meem-ar.medi by peh_meem-ar.init;\012	sub peh-ar.medi meem-ar.medi by peh_meem-ar.medi;\012	sub peh-ar.medi noon-ar.fina by peh_noon-ar.fina;\012	sub peh-ar.init heh-ar.medi by peh_heh-ar.init;\012	sub peh-ar.medi heh-ar.medi by peh_heh-ar.medi;\012	sub peh-ar.init alefMaksura-ar.fina by peh_alefMaksura-ar;\012	sub peh-ar.init yeh-ar.fina by peh_yeh-ar;\012	sub peh-ar.medi yeh-ar.fina by peh_yeh-ar.fina;\012	sub peh-ar.init yehHamzaabove-ar.fina by peh_yehHamzaabove-ar;\012	sub peh-ar.medi yehHamzaabove-ar.fina by peh_yehHamzaabove-ar.fina;\012	sub teh-ar.medi reh-ar.fina by teh_reh-ar.fina;\012	sub teh-ar.medi zain-ar.fina by teh_zain-ar.fina;\012	sub teh-ar.init meem-ar.fina by teh_meem-ar;\012	sub teh-ar.medi meem-ar.fina by teh_meem-ar.fina;\012	sub teh-ar.medi meem-ar.medi by teh_meem-ar.medi;\012	sub teh-ar.init meem-ar.medi by teh_meem-ar.init;\012	sub teh-ar.medi noon-ar.fina by teh_noon-ar.fina;\012	sub teh-ar.medi heh-ar.medi by teh_heh-ar.medi;\012	sub teh-ar.init heh-ar.medi by teh_heh-ar.init;\012	sub teh-ar.init alefMaksura-ar.fina by teh_alefMaksura-ar;\012	sub teh-ar.medi alefMaksura-ar.fina by teh_alefMaksura-ar.fina;\012	sub teh-ar.init yeh-ar.fina by teh_yeh-ar;\012	sub teh-ar.medi yeh-ar.fina by teh_yeh-ar.fina;\012	sub teh-ar.init yehHamzaabove-ar.fina by teh_yehHamzaabove-ar;\012	sub teh-ar.medi yehHamzaabove-ar.fina by teh_yehHamzaabove-ar.fina;\012	sub theh-ar.medi reh-ar.fina by theh_reh-ar.fina;\012	sub theh-ar.medi zain-ar.fina by theh_zain-ar.fina;\012	sub theh-ar.init meem-ar.fina by theh_meem-ar;\012	sub theh-ar.medi meem-ar.fina by theh_meem-ar.fina;\012	sub theh-ar.medi meem-ar.medi by theh_meem-ar.medi;\012	sub theh-ar.init meem-ar.medi by theh_meem-ar.init;\012	sub theh-ar.medi noon-ar.fina by theh_noon-ar.fina;\012	sub theh-ar.medi heh-ar.medi by theh_heh-ar.medi;\012	sub theh-ar.init heh-ar.medi by theh_heh-ar.init;\012	sub theh-ar.init alefMaksura-ar.fina by theh_alefMaksura-ar;\012	sub theh-ar.medi alefMaksura-ar.fina by theh_alefMaksura-ar.fina;\012	sub theh-ar.init yeh-ar.fina by theh_yeh-ar;\012	sub theh-ar.medi yeh-ar.fina by theh_yeh-ar.fina;\012	sub theh-ar.init yehHamzaabove-ar.fina by theh_yehHamzaabove-ar;\012	sub theh-ar.medi yehHamzaabove-ar.fina by theh_yehHamzaabove-ar.fina;\012	sub hah-ar.init alefMaksura-ar.fina by hah_alefMaksura-ar;\012	sub khah-ar.init alefMaksura-ar.fina by khah_alefMaksura-ar;\012	sub khah-ar.medi alefMaksura-ar.fina by khah_alefMaksura-ar.fina;\012	sub khah-ar.medi yeh-ar.fina by khah_yeh-ar.fina;\012	sub khah-ar.init yehHamzaabove-ar.fina by khah_yehHamzaabove-ar;\012	sub khah-ar.medi yehHamzaabove-ar.fina by khah_yehHamzaabove-ar.fina;\012	sub seen-ar.init reh-ar.fina by seen_reh-ar;\012	sub seen-ar.medi reh-ar.fina by seen_reh-ar.fina;\012	sub seen-ar.init meem-ar.fina by seen_meem-ar;\012	sub seen-ar.medi meem-ar.medi by seen_meem-ar.medi;\012	sub seen-ar.init meem-ar.medi by seen_meem-ar.init;\012	sub seen-ar.medi meem-ar.fina by seen_meem-ar.fina;\012	sub seen-ar.medi heh-ar.medi by seen_heh-ar.medi;\012	sub seen-ar.init heh-ar.medi by seen_heh-ar.init;\012	sub seen-ar.init alefMaksura-ar.fina by seen_alefMaksura-ar;\012	sub seen-ar.medi alefMaksura-ar.fina by seen_alefMaksura-ar.fina;\012	sub seen-ar.init yeh-ar.fina by seen_yeh-ar;\012	sub seen-ar.medi yeh-ar.fina by seen_yeh-ar.fina;\012	sub seen-ar.init yehHamzaabove-ar.fina by seen_yehHamzaabove-ar;\012	sub seen-ar.medi yehHamzaabove-ar.fina by seen_yehHamzaabove-ar.fina;\012	sub sheen-ar.init reh-ar.fina by sheen_reh-ar;\012	sub sheen-ar.medi reh-ar.fina by sheen_reh-ar.fina;\012	sub sheen-ar.init meem-ar.fina by sheen_meem-ar;\012	sub sheen-ar.medi meem-ar.fina by sheen_meem-ar.fina;\012	sub sheen-ar.medi meem-ar.medi by sheen_meem-ar.medi;\012	sub sheen-ar.init meem-ar.medi by sheen_meem-ar.init;\012	sub sheen-ar.medi heh-ar.medi by sheen_heh-ar.medi;\012	sub sheen-ar.init heh-ar.medi by sheen_heh-ar.init;\012	sub sheen-ar.init alefMaksura-ar.fina by sheen_alefMaksura-ar;\012	sub sheen-ar.medi alefMaksura-ar.fina by sheen_alefMaksura-ar.fina;\012	sub sheen-ar.init yeh-ar.fina by sheen_yeh-ar;\012	sub sheen-ar.medi yeh-ar.fina by sheen_yeh-ar.fina;\012	sub sheen-ar.init yehHamzaabove-ar.fina by sheen_yehHamzaabove-ar;\012	sub sheen-ar.medi yehHamzaabove-ar.fina by sheen_yehHamzaabove-ar.fina;\012	sub sad-ar.init reh-ar.fina by sad_reh-ar;\012	sub sad-ar.medi reh-ar.fina by sad_reh-ar.fina;\012	sub sad-ar.init zain-ar.fina by sad_zain-ar;\012	sub sad-ar.medi zain-ar.fina by sad_zain-ar.fina;\012	sub sad-ar.init meem-ar.fina by sad_meem-ar;\012	sub sad-ar.init meem-ar.medi by sad_meem-ar.init;\012	sub sad-ar.medi meem-ar.fina by sad_meem-ar.fina;\012	sub sad-ar.medi meem-ar.medi by sad_meem-ar.medi;\012	sub sad-ar.init alefMaksura-ar.fina by sad_alefMaksura-ar;\012	sub sad-ar.init yeh-ar.fina by sad_yeh-ar;\012	sub sad-ar.medi yeh-ar.fina by sad_yeh-ar.fina;\012	sub sad-ar.init yehHamzaabove-ar.fina by sad_yehHamzaabove-ar;\012	sub sad-ar.medi yehHamzaabove-ar.fina by sad_yehHamzaabove-ar.fina;\012	sub dad-ar.init reh-ar.fina by dad_reh-ar;\012	sub dad-ar.medi reh-ar.fina by dad_reh-ar.fina;\012	sub dad-ar.init zain-ar.fina by dad_zain-ar;\012	sub dad-ar.medi zain-ar.fina by dad_zain-ar.fina;\012	sub dad-ar.init meem-ar.fina by dad_meem-ar;\012	sub dad-ar.init meem-ar.medi by dad_meem-ar.init;\012	sub dad-ar.medi meem-ar.fina by dad_meem-ar.fina;\012	sub dad-ar.medi meem-ar.medi by dad_meem-ar.medi;\012	sub dad-ar.init alefMaksura-ar.fina by dad_alefMaksura-ar;\012	sub dad-ar.medi alefMaksura-ar.fina by dad_alefMaksura-ar.fina;\012	sub dad-ar.init yeh-ar.fina by dad_yeh-ar;\012	sub dad-ar.medi yeh-ar.fina by dad_yeh-ar.fina;\012	sub dad-ar.init yehHamzaabove-ar.fina by dad_yehHamzaabove-ar;\012	sub dad-ar.medi yehHamzaabove-ar.fina by dad_yehHamzaabove-ar.fina;\012	sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar;\012	sub feh-ar.medi alefMaksura-ar.fina by feh_alefMaksura-ar.fina;\012	sub feh-ar.init yeh-ar.fina by feh_yeh-ar;\012	sub feh-ar.init yehHamzaabove-ar.fina by feh_yehHamzaabove-ar;\012	sub qaf-ar.init alefMaksura-ar.fina by qaf_alefMaksura-ar;\012	sub qaf-ar.medi alefMaksura-ar.fina by qaf_alefMaksura-ar.fina;\012	sub qaf-ar.init yeh-ar.fina by qaf_yeh-ar;\012	sub qaf-ar.init yehHamzaabove-ar.fina by qaf_yehHamzaabove-ar;\012	sub kaf-ar.init alefMaksura-ar.fina by kaf_alefMaksura-ar;\012	sub kaf-ar.medi alefMaksura-ar.fina by kaf_alefMaksura-ar.fina;\012	sub kaf-ar.init yeh-ar.fina by kaf_yeh-ar;\012	sub kaf-ar.medi yeh-ar.fina by kaf_yeh-ar.fina;\012	sub kaf-ar.init yehHamzaabove-ar.fina by kaf_yehHamzaabove-ar;\012	sub kaf-ar.medi yehHamzaabove-ar.fina by kaf_yehHamzaabove-ar.fina;\012	sub keheh-ar.init yeh-ar.fina by keheh_yeh-ar;\012	sub gaf-ar.init alefMaksura-ar.fina by gaf_alefMaksura-ar;\012	sub gaf-ar.medi alefMaksura-ar.fina by gaf_alefMaksura-ar.fina;\012	sub gaf-ar.init yeh-ar.fina by gaf_yeh-ar;\012	sub gaf-ar.medi yeh-ar.fina by gaf_yeh-ar.fina;\012	sub gaf-ar.init yehHamzaabove-ar.fina by gaf_yehHamzaabove-ar;\012	sub gaf-ar.medi yehHamzaabove-ar.fina by gaf_yehHamzaabove-ar.fina;\012	sub lam-ar.init meem-ar.fina by lam_meem-ar;\012	sub lam-ar.init meem-ar.medi by lam_meem-ar.init;\012	sub lam-ar.init alefMaksura-ar.fina by lam_alefMaksura-ar;\012	sub lam-ar.medi alefMaksura-ar.fina by lam_alefMaksura-ar.fina;\012	sub lam-ar.init yeh-ar.fina by lam_yeh-ar;\012	sub lam-ar.medi yeh-ar.fina by lam_yeh-ar.fina;\012	sub lam-ar.init yehHamzaabove-ar.fina by lam_yehHamzaabove-ar;\012	sub lam-ar.medi yehHamzaabove-ar.fina by lam_yehHamzaabove-ar.fina;\012	sub meem-ar.medi reh-ar.fina by meem_reh-ar.fina;\012	sub meem-ar.medi zain-ar.fina by meem_zain-ar.fina;\012	sub noon-ar.medi reh-ar.fina by noon_reh-ar.fina;\012	sub noon-ar.medi zain-ar.fina by noon_zain-ar.fina;\012	sub noon-ar.init meem-ar.fina by noon_meem-ar;\012	sub noon-ar.medi meem-ar.fina by noon_meem-ar.fina;\012	sub noon-ar.medi meem-ar.medi by noon_meem-ar.medi;\012	sub noon-ar.init meem-ar.medi by noon_meem-ar.init;\012	sub noon-ar.medi noon-ar.fina by noon_noon-ar.fina;\012	sub noon-ar.medi heh-ar.medi by noon_heh-ar.medi;\012	sub noon-ar.init heh-ar.medi by noon_heh-ar.init;\012	sub noon-ar.init alefMaksura-ar.fina by noon_alefMaksura-ar;\012	sub noon-ar.medi alefMaksura-ar.fina by noon_alefMaksura-ar.fina;\012	sub noon-ar.init yeh-ar.fina by noon_yeh-ar;\012	sub noon-ar.medi yeh-ar.fina by noon_yeh-ar.fina;\012	sub noon-ar.init yehHamzaabove-ar.fina by noon_yehHamzaabove-ar;\012	sub noon-ar.medi yehHamzaabove-ar.fina by noon_yehHamzaabove-ar.fina;\012	sub alefMaksura-ar reh-ar.fina by alefMaksura_reh-ar.fina;\012	sub alefMaksura-ar zain-ar.fina by alefMaksura_zain-ar.fina;\012	sub yeh-ar.medi reh-ar.fina by yeh_reh-ar.fina;\012	sub yeh-ar.medi zain-ar.fina by yeh_zain-ar.fina;\012	sub yeh-ar.init meem-ar.fina by yeh_meem-ar;\012	sub yeh-ar.medi meem-ar.fina by yeh_meem-ar.fina;\012	sub yeh-ar.medi meem-ar.medi by yeh_meem-ar.medi;\012	sub yeh-ar.init meem-ar.medi by yeh_meem-ar.init;\012	sub yeh-ar.medi noon-ar.fina by yeh_noon-ar.fina;\012	sub yeh-ar.medi heh-ar.medi by yeh_heh-ar.medi;\012	sub yeh-ar.init heh-ar.medi by yeh_heh-ar.init;\012	sub yeh-ar.init yehbarree-ar.fina by yeh_yehbarree-ar;\012	sub yehHamzaabove-ar.medi reh-ar.fina by yehHamzaabove_reh-ar.fina;\012	sub yehHamzaabove-ar.medi zain-ar.fina by yehHamzaabove_zain-ar.fina;\012	sub yehHamzaabove-ar.init meem-ar.fina by yehHamzaabove_meem-ar;\012	sub yehHamzaabove-ar.medi meem-ar.fina by yehHamzaabove_meem-ar.fina;\012	sub yehHamzaabove-ar.medi meem-ar.medi by yehHamzaabove_meem-ar.medi;\012	sub yehHamzaabove-ar.init meem-ar.medi by yehHamzaabove_meem-ar.init;\012	sub yehHamzaabove-ar.medi noon-ar.fina by yehHamzaabove_noon-ar.fina;\012	sub yehHamzaabove-ar.medi heh-ar.medi by yehHamzaabove_heh-ar.medi;\012	sub yehHamzaabove-ar.init heh-ar.medi by yehHamzaabove_heh-ar.init;\012	sub yehHamzaabove-ar.init alefMaksura-ar.fina by yehHamzaabove_alefMaksura-ar;\012	sub yehHamzaabove-ar.medi alefMaksura-ar.fina by yehHamzaabove_alefMaksura-ar.fina;\012	sub yehHamzaabove-ar.init yeh-ar.fina by yehHamzaabove_yeh-ar;\012	sub yehHamzaabove-ar.medi yeh-ar.fina by yehHamzaabove_yeh-ar.fina;\012	sub yehHamzaabove-ar.init yehHamzaabove-ar.fina by yehHamzaabove_yehHamzaabove-ar;\012	sub yehHamzaabove-ar.medi yehHamzaabove-ar.fina by yehHamzaabove_yehHamzaabove-ar.fina;\012	sub feh-ar fatha-ar lam-ar kasra-ar lam-ar heh-ar by uni0641064E0644065006440647;\012	sub lam-ar lam-ar heh-ar by uni064406440647;\012	sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;";
+code = "lookupflag IgnoreMarks RightToLeft;\012sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;\012	sub lam-ar.init alef-ar.fina by lam_alef-ar;\012	sub lam-ar.medi alef-ar.fina by lam_alef-ar.fina;\012	sub lam-ar.init alefHamzaabove-ar.fina by lam_alefHamzaabove-ar;\012	sub lam-ar.medi alefHamzaabove-ar.fina by lam_alefHamzaabove-ar.fina;\012	sub lam-ar.init alefHamzabelow-ar.fina by lam_alefHamzabelow-ar;\012	sub lam-ar.medi alefHamzabelow-ar.fina by lam_alefHamzabelow-ar.fina;\012	sub lam-ar.init alefMadda-ar.fina by lam_alefMadda-ar;\012	sub lam-ar.medi alefMadda-ar.fina by lam_alefMadda-ar.fina;\012	sub lam-ar.init alefWasla-ar.fina by lam_alefWasla-ar;\012	sub lam-ar.medi alefWasla-ar.fina by lam_alefWasla-ar.fina;\012	sub lam-ar.init alefMaksura-ar.fina by lam_alefMaksura-ar;\012	sub lam-ar.medi alefMaksura-ar.fina by lam_alefMaksura-ar.fina;\012	sub lam-ar.init alefMaksura-ar meem-ar.fina by lam_alefMaksura_meem-ar;\012sub beh-ar.init alef-ar.fina by beh_alef-ar.liga;\012sub beh-ar.init alefHamzaabove-ar.fina by beh_alefHamzaabove-ar.liga;\012sub beh-ar.init alefHamzabelow-ar.fina by beh_alefHamzabelow-ar.liga;\012sub beh-ar.init alefMadda-ar.fina by beh_alefMadda-ar.liga;\012sub beh-ar.medi hehgoal-ar.medi by beh_hehgoal-ar.medi.liga;\012sub beh-ar.init hehDoachashmee-ar.medi by beh_hehDoachashmee-ar.init.liga;\012sub beh-ar.init hehDoachashmee-ar.fina by beh_hehDoachashmee-ar.liga;\012sub beh-ar.medi yeh-ar.fina by beh_yeh-ar.fina.liga;\012sub beh-ar.medi yehbarree-ar.fina by beh_yehbarree-ar.fina.liga;\012sub beh-ar.init yehbarree-ar.fina by beh_yehbarree-ar.liga;\012sub peh-ar.init alef-ar.fina by peh_alef-ar.liga;\012sub peh-ar.init alefHamzaabove-ar.fina by peh_alefHamzaabove-ar.liga;\012sub peh-ar.init alefMadda-ar.fina by peh_alefMadda-ar.liga;\012sub peh-ar.init hehDoachashmee-ar.medi by peh_hehDoachashmee-ar.init.liga;\012sub peh-ar.init hehDoachashmee-ar.fina by peh_hehDoachashmee-ar.liga;\012sub peh-ar.medi yehbarree-ar.fina by peh_yehbarree-ar.fina.liga;\012sub peh-ar.init yehbarree-ar.fina by peh_yehbarree-ar.liga;\012sub teh-ar.init alef-ar.fina by teh_alef-ar.liga;\012sub teh-ar.init alefHamzaabove-ar.fina by teh_alefHamzaabove-ar.liga;\012sub teh-ar.init alefHamzabelow-ar.fina by teh_alefHamzabelow-ar.liga;\012sub teh-ar.init alefMadda-ar.fina by teh_alefMadda-ar.liga;\012sub teh-ar.init hehDoachashmee-ar.medi by teh_hehDoachashmee-ar.init.liga;\012sub teh-ar.init hehDoachashmee-ar.fina by teh_hehDoachashmee-ar.liga;\012sub teh-ar.medi yehbarree-ar.fina by teh_yehbarree-ar.fina.liga;\012sub teh-ar.init yehbarree-ar.fina by teh_yehbarree-ar.liga;\012sub theh-ar.init alef-ar.fina by theh_alef-ar.liga;\012sub theh-ar.init alefHamzaabove-ar.fina by theh_alefHamzaabove-ar.liga;\012sub theh-ar.init alefHamzabelow-ar.fina by theh_alefHamzabelow-ar.liga;\012sub theh-ar.init alefMadda-ar.fina by theh_alefMadda-ar.liga;\012sub theh-ar.init hehDoachashmee-ar.medi by theh_hehDoachashmee-ar.init.liga;\012sub theh-ar.init hehDoachashmee-ar.fina by theh_hehDoachashmee-ar.liga;\012sub theh-ar.medi yehbarree-ar.fina by theh_yehbarree-ar.fina.liga;\012sub theh-ar.init yehbarree-ar.fina by theh_yehbarree-ar.liga;\012sub tteh-ar.init alef-ar.fina by tteh_alef-ar.liga;\012sub tteh-ar.init alefHamzaabove-ar.fina by tteh_alefHamzaabove-ar.liga;\012sub tteh-ar.init alefMadda-ar.fina by tteh_alefMadda-ar.liga;\012sub tteh-ar.medi reh-ar.fina by tteh_reh-ar.fina.liga;\012sub tteh-ar.medi zain-ar.fina by tteh_zain-ar.fina.liga;\012sub tteh-ar.medi noon-ar.fina by tteh_noon-ar.fina.liga;\012sub tteh-ar.init hehDoachashmee-ar.medi by tteh_hehDoachashmee-ar.init.liga;\012sub tteh-ar.init hehDoachashmee-ar.fina by tteh_hehDoachashmee-ar.liga;\012sub tteh-ar.medi yehbarree-ar.fina by tteh_yehbarree-ar.fina.liga;\012sub tteh-ar.init yehbarree-ar.fina by tteh_yehbarree-ar.liga;\012sub jeem-ar.init yehbarree-ar.fina by jeem_yehbarree-ar.liga;\012sub tcheh-ar.init yehbarree-ar.fina by tcheh_yehbarree-ar.liga;\012sub hah-ar.init yehbarree-ar.fina by hah_yehbarree-ar.liga;\012sub khah-ar.init yehbarree-ar.fina by khah_yehbarree-ar.liga;\012sub seen-ar.medi zain-ar.fina by seen_zain-ar.fina.liga;\012sub seen-ar.init zain-ar.fina by seen_zain-ar.liga;\012sub seen-ar.init hehgoal-ar.medi by seen_hehgoal-ar.init.liga;\012sub seen-ar.medi hehgoal-ar.medi by seen_hehgoal-ar.medi.liga;\012sub seen-ar.medi yehbarree-ar.fina by seen_yehbarree-ar.fina.liga;\012sub seen-ar.init yehbarree-ar.fina by seen_yehbarree-ar.liga;\012sub sheen-ar.medi zain-ar.fina by sheen_zain-ar.fina.liga;\012sub sheen-ar.init zain-ar.fina by sheen_zain-ar.liga;\012sub sheen-ar.init hehgoal-ar.medi by sheen_hehgoal-ar.init.liga;\012sub sheen-ar.medi hehgoal-ar.medi by sheen_hehgoal-ar.medi.liga;\012sub sheen-ar.medi yehbarree-ar.fina by sheen_yehbarree-ar.fina.liga;\012sub sheen-ar.init yehbarree-ar.fina by sheen_yehbarree-ar.liga;\012sub sad-ar.init heh-ar.medi by sad_heh-ar.init.liga;\012sub sad-ar.medi heh-ar.medi by sad_heh-ar.medi.liga;\012sub sad-ar.medi alefMaksura-ar.fina by sad_alefMaksura-ar.fina.liga;\012sub sad-ar.medi yehbarree-ar.fina by sad_yehbarree-ar.fina.liga;\012sub sad-ar.init yehbarree-ar.fina by sad_yehbarree-ar.liga;\012sub dad-ar.init heh-ar.medi by dad_heh-ar.init.liga;\012sub dad-ar.medi heh-ar.medi by dad_heh-ar.medi.liga;\012sub dad-ar.medi yehbarree-ar.fina by dad_yehbarree-ar.fina.liga;\012sub dad-ar.init yehbarree-ar.fina by dad_yehbarree-ar.liga;\012sub tah-ar.medi yehbarree-ar.fina by tah_yehbarree-ar.fina.liga;\012sub tah-ar.init yehbarree-ar.fina by tah_yehbarree-ar.liga;\012sub zah-ar.medi yehbarree-ar.fina by zah_yehbarree-ar.fina.liga;\012sub zah-ar.init yehbarree-ar.fina by zah_yehbarree-ar.liga;\012sub ain-ar.medi yehbarree-ar.fina by ain_yehbarree-ar.fina.liga;\012sub ain-ar.init yehbarree-ar.fina by ain_yehbarree-ar.liga;\012sub ghain-ar.medi yehbarree-ar.fina by ghain_yehbarree-ar.fina.liga;\012sub ghain-ar.init yehbarree-ar.fina by ghain_yehbarree-ar.liga;\012sub feh-ar.medi yehbarree-ar.fina by feh_yehbarree-ar.fina.liga;\012sub feh-ar.init yehbarree-ar.fina by feh_yehbarree-ar.liga;\012sub qaf-ar.medi yehbarree-ar.fina by qaf_yehbarree-ar.fina.liga;\012sub qaf-ar.init yehbarree-ar.fina by qaf_yehbarree-ar.liga;\012sub kaf-ar.medi yehbarree-ar.fina by kaf_yehbarree-ar.fina.liga;\012sub kaf-ar.init yehbarree-ar.fina by kaf_yehbarree-ar.liga;\012sub keheh-ar.medi yehbarree-ar.fina by keheh_yehbarree-ar.fina.liga;\012sub keheh-ar.init yehbarree-ar.fina by keheh_yehbarree-ar.liga;\012sub gaf-ar.medi yehbarree-ar.fina by gaf_yehbarree-ar.fina.liga;\012sub gaf-ar.init yehbarree-ar.fina by gaf_yehbarree-ar.liga;\012sub lam-ar.medi yehbarree-ar.fina by lam_yehbarree-ar.fina.liga;\012sub lam-ar.init yehbarree-ar.fina by lam_yehbarree-ar.liga;\012sub meem-ar.medi yehbarree-ar.fina by meem_yehbarree-ar.fina.liga;\012sub meem-ar.init yehbarree-ar.fina by meem_yehbarree-ar.liga;\012sub noon-ar.init alef-ar.fina by noon_alef-ar.liga;\012sub noon-ar.init alefHamzaabove-ar.fina by noon_alefHamzaabove-ar.liga;\012sub noon-ar.init alefHamzabelow-ar.fina by noon_alefHamzabelow-ar.liga;\012sub noon-ar.init alefMadda-ar.fina by noon_alefMadda-ar.liga;\012sub noon-ar.init hehDoachashmee-ar.medi by noon_hehDoachashmee-ar.init.liga;\012sub noon-ar.init hehDoachashmee-ar.fina by noon_hehDoachashmee-ar.liga;\012sub noon-ar.medi yehbarree-ar.fina by noon_yehbarree-ar.fina.liga;\012sub noon-ar.init yehbarree-ar.fina by noon_yehbarree-ar.liga;\012sub hehgoal-ar.init yehbarree-ar.fina by hehgoal_yehbarree-ar.liga;\012sub yeh-ar.init alef-ar.fina by yeh_alef-ar.liga;\012sub yeh-ar.init alefHamzaabove-ar.fina by yeh_alefHamzaabove-ar.liga;\012sub yeh-ar.init alefHamzabelow-ar.fina by yeh_alefHamzabelow-ar.liga;\012sub yeh-ar.init alefMadda-ar.fina by yeh_alefMadda-ar.liga;\012sub yeh-ar.medi noonghunna-ar.fina by yeh_noonghunna-ar.fina.liga;\012sub yeh-ar.init hehDoachashmee-ar.medi by yeh_hehDoachashmee-ar.init.liga;\012sub yeh-ar.init hehDoachashmee-ar.fina by yeh_hehDoachashmee-ar.liga;\012sub yeh-ar.medi yehbarree-ar.fina by yeh_yehbarree-ar.fina.liga;\012sub yehHamzaabove-ar.init alef-ar.fina by yehHamzaabove_alef-ar.liga;\012sub yehHamzaabove-ar.init alefHamzaabove-ar.fina by yehHamzaabove_alefHamzaabove-ar.liga;\012sub yehHamzaabove-ar.init alefHamzabelow-ar.fina by yehHamzaabove_alefHamzabelow-ar.liga;\012sub yehHamzaabove-ar.init alefMadda-ar.fina by yehHamzaabove_alefMadda-ar.liga;\012sub yehHamzaabove-ar.init hehDoachashmee-ar.medi by yehHamzaabove_hehDoachashmee-ar.init.liga;\012sub yehHamzaabove-ar.init hehDoachashmee-ar.fina by yehHamzaabove_hehDoachashmee-ar.liga;\012sub yehHamzaabove-ar.medi yehbarree-ar.fina by yehHamzaabove_yehbarree-ar.fina.liga;\012sub yehHamzaabove-ar.init yehbarree-ar.fina by yehHamzaabove_yehbarree-ar.liga;\012sub beh-ar.medi yehFarsi-ar.fina by beh_yehFarsi-ar.fina.liga;\012sub beh-ar.init yehFarsi-ar.fina by beh_yehFarsi-ar.liga;\012sub peh-ar.medi yehFarsi-ar.fina by peh_yehFarsi-ar.fina.liga;\012sub peh-ar.init yehFarsi-ar.fina by peh_yehFarsi-ar.liga;\012sub teh-ar.medi yehFarsi-ar.fina by teh_yehFarsi-ar.fina.liga;\012sub teh-ar.init yehFarsi-ar.fina by teh_yehFarsi-ar.liga;\012sub theh-ar.medi yehFarsi-ar.fina by theh_yehFarsi-ar.fina.liga;\012sub theh-ar.init yehFarsi-ar.fina by theh_yehFarsi-ar.liga;\012sub tteh-ar.medi yehFarsi-ar.fina by tteh_yehFarsi-ar.fina.liga;\012sub tteh-ar.init yehFarsi-ar.fina by tteh_yehFarsi-ar.liga;\012sub seen-ar.medi yehFarsi-ar.fina by seen_yehFarsi-ar.fina.liga;\012sub seen-ar.init yehFarsi-ar.fina by seen_yehFarsi-ar.liga;\012sub sheen-ar.medi yehFarsi-ar.fina by sheen_yehFarsi-ar.fina.liga;\012sub sheen-ar.init yehFarsi-ar.fina by sheen_yehFarsi-ar.liga;\012sub sad-ar.medi yehFarsi-ar.fina by sad_yehFarsi-ar.fina.liga;\012sub sad-ar.init yehFarsi-ar.fina by sad_yehFarsi-ar.liga;\012sub dad-ar.medi yehFarsi-ar.fina by dad_yehFarsi-ar.fina.liga;\012sub dad-ar.init yehFarsi-ar.fina by dad_yehFarsi-ar.liga;\012sub feh-ar.medi yehFarsi-ar.fina by feh_yehFarsi-ar.fina.liga;\012sub feh-ar.init yehFarsi-ar.fina by feh_yehFarsi-ar.liga;\012sub qaf-ar.medi yehFarsi-ar.fina by qaf_yehFarsi-ar.fina.liga;\012sub qaf-ar.init yehFarsi-ar.fina by qaf_yehFarsi-ar.liga;\012sub keheh-ar.medi yehFarsi-ar.fina by keheh_yehFarsi-ar.fina.liga;\012sub keheh-ar.init yehFarsi-ar.fina by keheh_yehFarsi-ar.liga;\012sub gaf-ar.medi yehFarsi-ar.fina by gaf_yehFarsi-ar.fina.liga;\012sub gaf-ar.init yehFarsi-ar.fina by gaf_yehFarsi-ar.liga;\012sub lam-ar.medi yehFarsi-ar.fina by lam_yehFarsi-ar.fina.liga;\012sub lam-ar.init yehFarsi-ar.fina by lam_yehFarsi-ar.liga;\012sub meem-ar.init yehFarsi-ar.fina by meem_yehFarsi-ar.liga;\012sub noon-ar.medi yehFarsi-ar.fina by noon_yehFarsi-ar.fina.liga;\012sub noon-ar.init yehFarsi-ar.fina by noon_yehFarsi-ar.liga;\012sub yehHamzaabove-ar.medi yehFarsi-ar.fina by yehHamzaabove_yehFarsi-ar.fina.liga;\012sub yehHamzaabove-ar.init yehFarsi-ar.fina by yehHamzaabove_yehFarsi-ar.liga;\012sub seen-ar beh-ar reh-ar by seen_beh_reh-ar.alt;\012	sub seen-ar beh-ar zain-ar by seen_beh_zain-ar.alt;\012	sub lam-ar.init beh-ar.medi meem-ar.fina by lam_beh_meem-ar;\012	sub lam-ar.init peh-ar.medi meem-ar.fina by lam_peh_meem-ar;\012	sub lam-ar.init teh-ar.medi meem-ar.fina by lam_teh_meem-ar;\012	sub lam-ar.init theh-ar.medi meem-ar.fina by lam_theh_meem-ar;\012	sub lam-ar.init noon-ar.medi meem-ar.fina by lam_noon_meem-ar;\012	sub lam-ar.init alefMaksura-ar meem-ar.fina by lam_alefMaksura_meem-ar;\012	sub lam-ar.init yeh-ar.medi meem-ar.fina by lam_yeh_meem-ar;\012	sub lam-ar.init yehHamzaabove-ar.medi meem-ar.fina by lam_yehHamzaabove_meem-ar;\012	sub lam-ar alef-ar by lam_alef-ar.alt;\012	sub beh-ar alef-ar by beh_alef-ar.liga.dotless;\012	sub beh-ar.medi reh-ar.fina by beh_reh-ar.fina;\012	sub beh-ar.medi zain-ar.fina by beh_zain-ar.fina;\012	sub beh-ar.init meem-ar.fina by beh_meem-ar;\012	sub beh-ar.medi meem-ar.fina by beh_meem-ar.fina;\012	sub beh-ar.medi meem-ar.medi by beh_meem-ar.medi;\012	sub beh-ar.init meem-ar.medi by beh_meem-ar.init;\012	sub beh-ar.medi noon-ar.fina by beh_noon-ar.fina;\012	sub beh-ar.medi heh-ar.medi by beh_heh-ar.medi;\012	sub beh-ar.init heh-ar.medi by beh_heh-ar.init;\012	sub beh-ar.init alefMaksura-ar.fina by beh_alefMaksura-ar;\012	sub beh-ar.medi alefMaksura-ar.fina by beh_alefMaksura-ar.fina;\012	sub beh-ar.fina alefMaksura-ar.fina by beh_alefMaksura-ar.fina.dotless;\012	sub beh-ar.init yeh-ar.fina by beh_yeh-ar;\012	sub beh-ar yeh-ar by beh_yeh-ar.loclFAR.isol;\012	sub beh-ar.init yehHamzaabove-ar.fina by beh_yehHamzaabove-ar;\012	sub beh-ar.medi yehHamzaabove-ar.fina by beh_yehHamzaabove-ar.fina;\012	sub peh-ar.medi reh-ar.fina by peh_reh-ar.fina;\012	sub peh-ar.medi zain-ar.fina by peh_zain-ar.fina;\012	sub peh-ar.init meem-ar.fina by peh_meem-ar;\012	sub peh-ar.medi meem-ar.fina by peh_meem-ar.fina;\012	sub peh-ar.init meem-ar.medi by peh_meem-ar.init;\012	sub peh-ar.medi meem-ar.medi by peh_meem-ar.medi;\012	sub peh-ar.medi noon-ar.fina by peh_noon-ar.fina;\012	sub peh-ar.init heh-ar.medi by peh_heh-ar.init;\012	sub peh-ar.medi heh-ar.medi by peh_heh-ar.medi;\012	sub peh-ar.init alefMaksura-ar.fina by peh_alefMaksura-ar;\012	sub peh-ar.init yeh-ar.fina by peh_yeh-ar;\012	sub peh-ar.medi yeh-ar.fina by peh_yeh-ar.fina;\012	sub peh-ar.init yehHamzaabove-ar.fina by peh_yehHamzaabove-ar;\012	sub peh-ar.medi yehHamzaabove-ar.fina by peh_yehHamzaabove-ar.fina;\012	sub teh-ar.medi reh-ar.fina by teh_reh-ar.fina;\012	sub teh-ar.medi zain-ar.fina by teh_zain-ar.fina;\012	sub teh-ar.init meem-ar.fina by teh_meem-ar;\012	sub teh-ar.medi meem-ar.fina by teh_meem-ar.fina;\012	sub teh-ar.medi meem-ar.medi by teh_meem-ar.medi;\012	sub teh-ar.init meem-ar.medi by teh_meem-ar.init;\012	sub teh-ar.medi noon-ar.fina by teh_noon-ar.fina;\012	sub teh-ar.medi heh-ar.medi by teh_heh-ar.medi;\012	sub teh-ar.init heh-ar.medi by teh_heh-ar.init;\012	sub teh-ar.init alefMaksura-ar.fina by teh_alefMaksura-ar;\012	sub teh-ar.medi alefMaksura-ar.fina by teh_alefMaksura-ar.fina;\012	sub teh-ar.init yeh-ar.fina by teh_yeh-ar;\012	sub teh-ar.medi yeh-ar.fina by teh_yeh-ar.fina;\012	sub teh-ar.init yehHamzaabove-ar.fina by teh_yehHamzaabove-ar;\012	sub teh-ar.medi yehHamzaabove-ar.fina by teh_yehHamzaabove-ar.fina;\012	sub theh-ar.medi reh-ar.fina by theh_reh-ar.fina;\012	sub theh-ar.medi zain-ar.fina by theh_zain-ar.fina;\012	sub theh-ar.init meem-ar.fina by theh_meem-ar;\012	sub theh-ar.medi meem-ar.fina by theh_meem-ar.fina;\012	sub theh-ar.medi meem-ar.medi by theh_meem-ar.medi;\012	sub theh-ar.init meem-ar.medi by theh_meem-ar.init;\012	sub theh-ar.medi noon-ar.fina by theh_noon-ar.fina;\012	sub theh-ar.medi heh-ar.medi by theh_heh-ar.medi;\012	sub theh-ar.init heh-ar.medi by theh_heh-ar.init;\012	sub theh-ar.init alefMaksura-ar.fina by theh_alefMaksura-ar;\012	sub theh-ar.medi alefMaksura-ar.fina by theh_alefMaksura-ar.fina;\012	sub theh-ar.init yeh-ar.fina by theh_yeh-ar;\012	sub theh-ar.medi yeh-ar.fina by theh_yeh-ar.fina;\012	sub theh-ar.init yehHamzaabove-ar.fina by theh_yehHamzaabove-ar;\012	sub theh-ar.medi yehHamzaabove-ar.fina by theh_yehHamzaabove-ar.fina;\012	sub hah-ar.init alefMaksura-ar.fina by hah_alefMaksura-ar;\012	sub khah-ar.init alefMaksura-ar.fina by khah_alefMaksura-ar;\012	sub khah-ar.medi alefMaksura-ar.fina by khah_alefMaksura-ar.fina;\012	sub khah-ar.medi yeh-ar.fina by khah_yeh-ar.fina;\012	sub khah-ar.init yehHamzaabove-ar.fina by khah_yehHamzaabove-ar;\012	sub khah-ar.medi yehHamzaabove-ar.fina by khah_yehHamzaabove-ar.fina;\012	sub seen-ar.init reh-ar.fina by seen_reh-ar;\012	sub seen-ar.medi reh-ar.fina by seen_reh-ar.fina;\012	sub seen-ar.init meem-ar.fina by seen_meem-ar;\012	sub seen-ar.medi meem-ar.medi by seen_meem-ar.medi;\012	sub seen-ar.init meem-ar.medi by seen_meem-ar.init;\012	sub seen-ar.medi meem-ar.fina by seen_meem-ar.fina;\012	sub seen-ar.medi heh-ar.medi by seen_heh-ar.medi;\012	sub seen-ar.init heh-ar.medi by seen_heh-ar.init;\012	sub seen-ar.init alefMaksura-ar.fina by seen_alefMaksura-ar;\012	sub seen-ar.medi alefMaksura-ar.fina by seen_alefMaksura-ar.fina;\012	sub seen-ar.init yeh-ar.fina by seen_yeh-ar;\012	sub seen-ar.medi yeh-ar.fina by seen_yeh-ar.fina;\012	sub seen-ar.init yehHamzaabove-ar.fina by seen_yehHamzaabove-ar;\012	sub seen-ar.medi yehHamzaabove-ar.fina by seen_yehHamzaabove-ar.fina;\012	sub sheen-ar.init reh-ar.fina by sheen_reh-ar;\012	sub sheen-ar.medi reh-ar.fina by sheen_reh-ar.fina;\012	sub sheen-ar.init meem-ar.fina by sheen_meem-ar;\012	sub sheen-ar.medi meem-ar.fina by sheen_meem-ar.fina;\012	sub sheen-ar.medi meem-ar.medi by sheen_meem-ar.medi;\012	sub sheen-ar.init meem-ar.medi by sheen_meem-ar.init;\012	sub sheen-ar.medi heh-ar.medi by sheen_heh-ar.medi;\012	sub sheen-ar.init heh-ar.medi by sheen_heh-ar.init;\012	sub sheen-ar.init alefMaksura-ar.fina by sheen_alefMaksura-ar;\012	sub sheen-ar.medi alefMaksura-ar.fina by sheen_alefMaksura-ar.fina;\012	sub sheen-ar.init yeh-ar.fina by sheen_yeh-ar;\012	sub sheen-ar.medi yeh-ar.fina by sheen_yeh-ar.fina;\012	sub sheen-ar.init yehHamzaabove-ar.fina by sheen_yehHamzaabove-ar;\012	sub sheen-ar.medi yehHamzaabove-ar.fina by sheen_yehHamzaabove-ar.fina;\012	sub sad-ar.init reh-ar.fina by sad_reh-ar;\012	sub sad-ar.medi reh-ar.fina by sad_reh-ar.fina;\012	sub sad-ar.init zain-ar.fina by sad_zain-ar;\012	sub sad-ar.medi zain-ar.fina by sad_zain-ar.fina;\012	sub sad-ar.init meem-ar.fina by sad_meem-ar;\012	sub sad-ar.init meem-ar.medi by sad_meem-ar.init;\012	sub sad-ar.medi meem-ar.fina by sad_meem-ar.fina;\012	sub sad-ar.medi meem-ar.medi by sad_meem-ar.medi;\012	sub sad-ar.init alefMaksura-ar.fina by sad_alefMaksura-ar;\012	sub sad-ar.init yeh-ar.fina by sad_yeh-ar;\012	sub sad-ar.medi yeh-ar.fina by sad_yeh-ar.fina;\012	sub sad-ar.init yehHamzaabove-ar.fina by sad_yehHamzaabove-ar;\012	sub sad-ar.medi yehHamzaabove-ar.fina by sad_yehHamzaabove-ar.fina;\012	sub dad-ar.init reh-ar.fina by dad_reh-ar;\012	sub dad-ar.medi reh-ar.fina by dad_reh-ar.fina;\012	sub dad-ar.init zain-ar.fina by dad_zain-ar;\012	sub dad-ar.medi zain-ar.fina by dad_zain-ar.fina;\012	sub dad-ar.init meem-ar.fina by dad_meem-ar;\012	sub dad-ar.init meem-ar.medi by dad_meem-ar.init;\012	sub dad-ar.medi meem-ar.fina by dad_meem-ar.fina;\012	sub dad-ar.medi meem-ar.medi by dad_meem-ar.medi;\012	sub dad-ar.init alefMaksura-ar.fina by dad_alefMaksura-ar;\012	sub dad-ar.medi alefMaksura-ar.fina by dad_alefMaksura-ar.fina;\012	sub dad-ar.init yeh-ar.fina by dad_yeh-ar;\012	sub dad-ar.medi yeh-ar.fina by dad_yeh-ar.fina;\012	sub dad-ar.init yehHamzaabove-ar.fina by dad_yehHamzaabove-ar;\012	sub dad-ar.medi yehHamzaabove-ar.fina by dad_yehHamzaabove-ar.fina;\012	sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar;\012	sub feh-ar.medi alefMaksura-ar.fina by feh_alefMaksura-ar.fina;\012	sub feh-ar.init yeh-ar.fina by feh_yeh-ar;\012	sub feh-ar.init yehHamzaabove-ar.fina by feh_yehHamzaabove-ar;\012	sub qaf-ar.init alefMaksura-ar.fina by qaf_alefMaksura-ar;\012	sub qaf-ar.medi alefMaksura-ar.fina by qaf_alefMaksura-ar.fina;\012	sub qaf-ar.init yeh-ar.fina by qaf_yeh-ar;\012	sub qaf-ar.init yehHamzaabove-ar.fina by qaf_yehHamzaabove-ar;\012	sub kaf-ar.init alefMaksura-ar.fina by kaf_alefMaksura-ar;\012	sub kaf-ar.medi alefMaksura-ar.fina by kaf_alefMaksura-ar.fina;\012	sub kaf-ar.init yeh-ar.fina by kaf_yeh-ar;\012	sub kaf-ar.medi yeh-ar.fina by kaf_yeh-ar.fina;\012	sub kaf-ar.init yehHamzaabove-ar.fina by kaf_yehHamzaabove-ar;\012	sub kaf-ar.medi yehHamzaabove-ar.fina by kaf_yehHamzaabove-ar.fina;\012	sub keheh-ar.init yeh-ar.fina by keheh_yeh-ar;\012	sub gaf-ar.init alefMaksura-ar.fina by gaf_alefMaksura-ar;\012	sub gaf-ar.medi alefMaksura-ar.fina by gaf_alefMaksura-ar.fina;\012	sub gaf-ar.init yeh-ar.fina by gaf_yeh-ar;\012	sub gaf-ar.medi yeh-ar.fina by gaf_yeh-ar.fina;\012	sub gaf-ar.init yehHamzaabove-ar.fina by gaf_yehHamzaabove-ar;\012	sub gaf-ar.medi yehHamzaabove-ar.fina by gaf_yehHamzaabove-ar.fina;\012	sub lam-ar.init meem-ar.fina by lam_meem-ar;\012	sub lam-ar.init meem-ar.medi by lam_meem-ar.init;\012	sub lam-ar.init alefMaksura-ar.fina by lam_alefMaksura-ar;\012	sub lam-ar.medi alefMaksura-ar.fina by lam_alefMaksura-ar.fina;\012	sub lam-ar.init yeh-ar.fina by lam_yeh-ar;\012	sub lam-ar.medi yeh-ar.fina by lam_yeh-ar.fina;\012	sub lam-ar.init yehHamzaabove-ar.fina by lam_yehHamzaabove-ar;\012	sub lam-ar.medi yehHamzaabove-ar.fina by lam_yehHamzaabove-ar.fina;\012	sub meem-ar.medi reh-ar.fina by meem_reh-ar.fina;\012	sub meem-ar.medi zain-ar.fina by meem_zain-ar.fina;\012	sub noon-ar.medi reh-ar.fina by noon_reh-ar.fina;\012	sub noon-ar.medi zain-ar.fina by noon_zain-ar.fina;\012	sub noon-ar.init meem-ar.fina by noon_meem-ar;\012	sub noon-ar.medi meem-ar.fina by noon_meem-ar.fina;\012	sub noon-ar.medi meem-ar.medi by noon_meem-ar.medi;\012	sub noon-ar.init meem-ar.medi by noon_meem-ar.init;\012	sub noon-ar.medi noon-ar.fina by noon_noon-ar.fina;\012	sub noon-ar.medi heh-ar.medi by noon_heh-ar.medi;\012	sub noon-ar.init heh-ar.medi by noon_heh-ar.init;\012	sub noon-ar.init alefMaksura-ar.fina by noon_alefMaksura-ar;\012	sub noon-ar.medi alefMaksura-ar.fina by noon_alefMaksura-ar.fina;\012	sub noon-ar.init yeh-ar.fina by noon_yeh-ar;\012	sub noon-ar.medi yeh-ar.fina by noon_yeh-ar.fina;\012	sub noon-ar.init yehHamzaabove-ar.fina by noon_yehHamzaabove-ar;\012	sub noon-ar.medi yehHamzaabove-ar.fina by noon_yehHamzaabove-ar.fina;\012	sub alefMaksura-ar reh-ar.fina by alefMaksura_reh-ar.fina;\012	sub alefMaksura-ar zain-ar.fina by alefMaksura_zain-ar.fina;\012	sub yeh-ar.medi reh-ar.fina by yeh_reh-ar.fina;\012	sub yeh-ar.medi zain-ar.fina by yeh_zain-ar.fina;\012	sub yeh-ar.init meem-ar.fina by yeh_meem-ar;\012	sub yeh-ar.medi meem-ar.fina by yeh_meem-ar.fina;\012	sub yeh-ar.medi meem-ar.medi by yeh_meem-ar.medi;\012	sub yeh-ar.init meem-ar.medi by yeh_meem-ar.init;\012	sub yeh-ar.medi noon-ar.fina by yeh_noon-ar.fina;\012	sub yeh-ar.medi heh-ar.medi by yeh_heh-ar.medi;\012	sub yeh-ar.init heh-ar.medi by yeh_heh-ar.init;\012	sub yeh-ar.init yehbarree-ar.fina by yeh_yehbarree-ar;\012	sub yehHamzaabove-ar.medi reh-ar.fina by yehHamzaabove_reh-ar.fina;\012	sub yehHamzaabove-ar.medi zain-ar.fina by yehHamzaabove_zain-ar.fina;\012	sub yehHamzaabove-ar.init meem-ar.fina by yehHamzaabove_meem-ar;\012	sub yehHamzaabove-ar.medi meem-ar.fina by yehHamzaabove_meem-ar.fina;\012	sub yehHamzaabove-ar.medi meem-ar.medi by yehHamzaabove_meem-ar.medi;\012	sub yehHamzaabove-ar.init meem-ar.medi by yehHamzaabove_meem-ar.init;\012	sub yehHamzaabove-ar.medi noon-ar.fina by yehHamzaabove_noon-ar.fina;\012	sub yehHamzaabove-ar.medi heh-ar.medi by yehHamzaabove_heh-ar.medi;\012	sub yehHamzaabove-ar.init heh-ar.medi by yehHamzaabove_heh-ar.init;\012	sub yehHamzaabove-ar.init alefMaksura-ar.fina by yehHamzaabove_alefMaksura-ar;\012	sub yehHamzaabove-ar.medi alefMaksura-ar.fina by yehHamzaabove_alefMaksura-ar.fina;\012	sub yehHamzaabove-ar.init yeh-ar.fina by yehHamzaabove_yeh-ar;\012	sub yehHamzaabove-ar.medi yeh-ar.fina by yehHamzaabove_yeh-ar.fina;\012	sub yehHamzaabove-ar.init yehHamzaabove-ar.fina by yehHamzaabove_yehHamzaabove-ar;\012	sub yehHamzaabove-ar.medi yehHamzaabove-ar.fina by yehHamzaabove_yehHamzaabove-ar.fina;\012	sub feh-ar fatha-ar lam-ar kasra-ar lam-ar heh-ar by uni0641064E0644065006440647;\012	sub alef-ar lam-ar.init lam-ar.medi heh-ar.fina by allah-ar;";
 name = rlig;
 },
 {
@@ -44621,48 +44621,44 @@ width = 951;
 );
 },
 {
-color = 0;
-glyphname = uni064406440647;
-lastChange = "2016-02-09 17:43:09 +0000";
+color = 9;
+glyphname = "lam_lam_heh-ar.rlig";
+lastChange = "2016-08-22 09:13:13 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{828, -72}";
+position = "{802, -46}";
 },
 {
 name = bottom_2;
-position = "{526, -88}";
+position = "{570, -45}";
 },
 {
 name = bottom_3;
-position = "{229, -17}";
+position = "{239, 0}";
 },
 {
 name = caret_1;
-position = "{676, 0}";
+position = "{688, 0}";
 },
 {
 name = top_1;
-position = "{821, 625}";
+position = "{823, 609}";
 },
 {
 name = top_3;
-position = "{295, 514}";
+position = "{291, 486}";
 }
 );
 components = (
 {
-name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 566, 269}";
-},
-{
 name = "heh-ar.fina";
 },
 {
-name = "alef-ar";
-transform = "{1, 0, 0, 1, 946, 0}";
+name = "alefabove-ar";
+transform = "{1, 0, 0, 1, 566, 269}";
 },
 {
 name = "shadda-ar";
@@ -44674,51 +44670,50 @@ paths = (
 {
 closed = 1;
 nodes = (
-"486 0 OFFCURVE",
-"538 18 OFFCURVE",
-"568 46 CURVE",
-"602 18 OFFCURVE",
-"658 0 OFFCURVE",
-"699 0 CURVE SMOOTH",
-"755 2 OFFCURVE",
-"844 11 OFFCURVE",
-"881 25 CURVE",
-"913 82 OFFCURVE",
-"924 150 OFFCURVE",
-"922 214 CURVE SMOOTH",
-"921 316 OFFCURVE",
-"917 428 OFFCURVE",
-"909 566 CURVE",
-"747 557 LINE",
-"760 426 OFFCURVE",
-"774 298 OFFCURVE",
-"779 190 CURVE",
-"755 187 OFFCURVE",
-"727 186 OFFCURVE",
-"699 186 CURVE SMOOTH",
-"656 186 LINE",
-"657 193 OFFCURVE",
-"656 200 OFFCURVE",
-"656 206 CURVE",
-"656 309 OFFCURVE",
-"652 425 OFFCURVE",
-"650 477 CURVE",
-"488 469 LINE",
-"495 421 OFFCURVE",
-"510 270 OFFCURVE",
-"515 156 CURVE",
-"542 220 LINE",
-"510 188 OFFCURVE",
-"482 186 OFFCURVE",
-"447 186 CURVE",
-"447 0 LINE"
+"488 0 OFFCURVE",
+"540 18 OFFCURVE",
+"570 46 CURVE",
+"604 18 OFFCURVE",
+"660 0 OFFCURVE",
+"701 0 CURVE SMOOTH",
+"757 2 OFFCURVE",
+"846 11 OFFCURVE",
+"883 25 CURVE",
+"915 82 OFFCURVE",
+"926 150 OFFCURVE",
+"924 214 CURVE SMOOTH",
+"923 316 OFFCURVE",
+"919 428 OFFCURVE",
+"911 566 CURVE",
+"749 557 LINE",
+"762 426 OFFCURVE",
+"776 298 OFFCURVE",
+"781 190 CURVE",
+"757 187 OFFCURVE",
+"729 186 OFFCURVE",
+"701 186 CURVE SMOOTH",
+"658 186 LINE",
+"659 193 OFFCURVE",
+"658 200 OFFCURVE",
+"658 206 CURVE",
+"658 309 OFFCURVE",
+"654 425 OFFCURVE",
+"652 477 CURVE",
+"490 469 LINE",
+"497 421 OFFCURVE",
+"512 270 OFFCURVE",
+"517 156 CURVE",
+"544 220 LINE",
+"512 188 OFFCURVE",
+"484 186 OFFCURVE",
+"449 186 CURVE",
+"449 0 LINE"
 );
 }
 );
-width = 1191;
+width = 964;
 }
 );
-note = uni064406440647;
 },
 {
 color = 9;
@@ -49986,44 +49981,48 @@ rightMetricsKey = "alefMaksura-ar.fina";
 unicode = FBFA;
 },
 {
-color = 0;
+color = 9;
 glyphname = "allah-ar";
-lastChange = "2016-02-09 17:50:00 +0000";
+lastChange = "2016-08-22 09:03:55 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{802, -46}";
+position = "{828, -72}";
 },
 {
 name = bottom_2;
-position = "{570, -45}";
+position = "{526, -88}";
 },
 {
 name = bottom_3;
-position = "{239, 0}";
+position = "{229, -17}";
 },
 {
 name = caret_1;
-position = "{688, 0}";
+position = "{676, 0}";
 },
 {
 name = top_1;
-position = "{823, 609}";
+position = "{821, 625}";
 },
 {
 name = top_3;
-position = "{291, 486}";
+position = "{295, 514}";
 }
 );
 components = (
 {
+name = "alefabove-ar";
+transform = "{1, 0, 0, 1, 566, 269}";
+},
+{
 name = "heh-ar.fina";
 },
 {
-name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 566, 269}";
+name = "alef-ar";
+transform = "{1, 0, 0, 1, 946, 0}";
 },
 {
 name = "shadda-ar";
@@ -50035,168 +50034,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"488 0 OFFCURVE",
-"540 18 OFFCURVE",
-"570 46 CURVE",
-"604 18 OFFCURVE",
-"660 0 OFFCURVE",
-"701 0 CURVE SMOOTH",
-"757 2 OFFCURVE",
-"846 11 OFFCURVE",
-"883 25 CURVE",
-"915 82 OFFCURVE",
-"926 150 OFFCURVE",
-"924 214 CURVE SMOOTH",
-"923 316 OFFCURVE",
-"919 428 OFFCURVE",
-"911 566 CURVE",
-"749 557 LINE",
-"762 426 OFFCURVE",
-"776 298 OFFCURVE",
-"781 190 CURVE",
-"757 187 OFFCURVE",
-"729 186 OFFCURVE",
-"701 186 CURVE SMOOTH",
-"658 186 LINE",
-"659 193 OFFCURVE",
-"658 200 OFFCURVE",
-"658 206 CURVE",
-"658 309 OFFCURVE",
-"654 425 OFFCURVE",
-"652 477 CURVE",
-"490 469 LINE",
-"497 421 OFFCURVE",
-"512 270 OFFCURVE",
-"517 156 CURVE",
-"544 220 LINE",
-"512 188 OFFCURVE",
-"484 186 OFFCURVE",
-"449 186 CURVE",
-"449 0 LINE"
+"486 0 OFFCURVE",
+"538 18 OFFCURVE",
+"568 46 CURVE",
+"602 18 OFFCURVE",
+"658 0 OFFCURVE",
+"699 0 CURVE SMOOTH",
+"755 2 OFFCURVE",
+"844 11 OFFCURVE",
+"881 25 CURVE",
+"913 82 OFFCURVE",
+"924 150 OFFCURVE",
+"922 214 CURVE SMOOTH",
+"921 316 OFFCURVE",
+"917 428 OFFCURVE",
+"909 566 CURVE",
+"747 557 LINE",
+"760 426 OFFCURVE",
+"774 298 OFFCURVE",
+"779 190 CURVE",
+"755 187 OFFCURVE",
+"727 186 OFFCURVE",
+"699 186 CURVE SMOOTH",
+"656 186 LINE",
+"657 193 OFFCURVE",
+"656 200 OFFCURVE",
+"656 206 CURVE",
+"656 309 OFFCURVE",
+"652 425 OFFCURVE",
+"650 477 CURVE",
+"488 469 LINE",
+"495 421 OFFCURVE",
+"510 270 OFFCURVE",
+"515 156 CURVE",
+"542 220 LINE",
+"510 188 OFFCURVE",
+"482 186 OFFCURVE",
+"447 186 CURVE",
+"447 0 LINE"
 );
 }
 );
-width = 964;
-},
-{
-associatedMasterId = "5483B82D-F897-45AA-9987-2D1C58E320E8";
-components = (
-{
-name = "shadda-ar";
-transform = "{1, 0, 0, 1, 538, 102}";
-}
-);
-layerId = "0266B79C-4A4C-4F3B-9278-3E0A4BAE95E0";
-name = "Bold Dec 5 15, 19:54";
-paths = (
-{
-closed = 1;
-nodes = (
-"1106 816 LINE",
-"1125 624 OFFCURVE",
-"1145 436 OFFCURVE",
-"1152 278 CURVE",
-"1117 274 OFFCURVE",
-"1077 273 OFFCURVE",
-"1036 273 CURVE SMOOTH",
-"973 273 LINE",
-"974 283 OFFCURVE",
-"973 293 OFFCURVE",
-"973 302 CURVE",
-"972 453 OFFCURVE",
-"966 622 OFFCURVE",
-"963 698 CURVE",
-"727 686 LINE",
-"736 624 OFFCURVE",
-"755 436 OFFCURVE",
-"763 278 CURVE",
-"733 274 OFFCURVE",
-"701 273 OFFCURVE",
-"667 273 CURVE SMOOTH",
-"568 273 OFFCURVE",
-"531 477 OFFCURVE",
-"477 669 CURVE",
-"454 669 LINE",
-"394 623 OFFCURVE",
-"345 576 OFFCURVE",
-"298 510 CURVE",
-"197 443 OFFCURVE",
-"110 367 OFFCURVE",
-"50 250 CURVE",
-"50 113 OFFCURVE",
-"136 -25 OFFCURVE",
-"393 -5 CURVE",
-"428 18 OFFCURVE",
-"464 46 OFFCURVE",
-"494 74 CURVE",
-"546 29 OFFCURVE",
-"609 0 OFFCURVE",
-"667 0 CURVE SMOOTH",
-"724 0 OFFCURVE",
-"799 27 OFFCURVE",
-"843 68 CURVE",
-"893 27 OFFCURVE",
-"976 0 OFFCURVE",
-"1036 0 CURVE SMOOTH",
-"1117 3 OFFCURVE",
-"1247 16 OFFCURVE",
-"1302 36 CURVE",
-"1349 120 OFFCURVE",
-"1365 220 OFFCURVE",
-"1362 314 CURVE SMOOTH",
-"1361 462 OFFCURVE",
-"1355 627 OFFCURVE",
-"1343 828 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1424 816 LINE",
-"1438 518 OFFCURVE",
-"1448 209 OFFCURVE",
-"1436 2 CURVE",
-"1442 -5 LINE",
-"1522 -4 OFFCURVE",
-"1630 11 OFFCURVE",
-"1675 36 CURVE",
-"1685 232 OFFCURVE",
-"1682 513 OFFCURVE",
-"1660 828 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"264 311 OFFCURVE",
-"296 337 OFFCURVE",
-"337 361 CURVE",
-"347 328 OFFCURVE",
-"359 295 OFFCURVE",
-"372 262 CURVE",
-"313 257 OFFCURVE",
-"269 267 OFFCURVE",
-"238 284 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"803 1070 LINE",
-"798 1117 OFFCURVE",
-"794 1186 OFFCURVE",
-"789 1253 CURVE",
-"881 1258 LINE",
-"889 1189 OFFCURVE",
-"890 1126 OFFCURVE",
-"884 1083 CURVE",
-"872 1074 OFFCURVE",
-"837 1067 OFFCURVE",
-"806 1067 CURVE"
-);
-}
-);
-width = 1730;
+width = 1191;
 }
 );
 unicode = FDF2;
@@ -50204,7 +50083,7 @@ unicode = FDF2;
 {
 color = 0;
 glyphname = uniFDFA;
-lastChange = "2016-02-09 22:30:59 +0000";
+lastChange = "2016-08-22 08:58:59 +0000";
 layers = (
 {
 layerId = "5483B82D-F897-45AA-9987-2D1C58E320E8";
@@ -51000,7 +50879,7 @@ name = "waw-ar";
 transform = "{1, 0, 0, 1, 1739, -623}";
 },
 {
-name = "allah-ar";
+name = LLH;
 transform = "{1, 0, 0, 1, 70, 313}";
 },
 {
@@ -51337,7 +51216,7 @@ name = "waw-ar";
 transform = "{0.621, 0, 0, 0.621, 1171, -187}";
 },
 {
-name = "allah-ar";
+name = LLH;
 transform = "{0.621, 0, 0, 0.621, 80, 351}";
 },
 {
@@ -68153,7 +68032,6 @@ kerning = {
 "tteh_yehbarree-ar.liga" = 40;
 "uighurkirghizyehHamzaabove_alefMaksura-ar" = -40;
 uni0641064E0644065006440647 = -50;
-uni064406440647 = -25;
 "waw-ar" = -10;
 "yeh-ar.init" = 20;
 "yehFarsi-ar" = -60;
@@ -68491,7 +68369,6 @@ a = -30;
 "alefMadda-ar" = -25;
 "alefMaksura-ar" = -50;
 "alefWasla-ar" = -25;
-"allah-ar" = -40;
 "beh-ar" = -40;
 "beh-ar.init" = -30;
 "beh_alef-ar.liga" = -40;
@@ -68728,7 +68605,6 @@ a = -30;
 "tteh_yehbarree-ar.liga" = 40;
 "uighurkirghizyehHamzaabove_alefMaksura-ar" = -40;
 uni0641064E0644065006440647 = -40;
-uni064406440647 = -25;
 uni0672 = -25;
 uni0673 = 20;
 "veh-ar" = -40;
@@ -69036,5 +68912,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
