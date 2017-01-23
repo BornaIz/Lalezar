@@ -1,5 +1,5 @@
 {
-.appVersion = "900";
+.appVersion = "965";
 classes = (
 {
 code = "";
@@ -24,6 +24,10 @@ value = (
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-08-22 09:13:28 +0000";
