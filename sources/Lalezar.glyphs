@@ -1,11 +1,5 @@
 {
-.appVersion = "965";
-classes = (
-{
-code = "";
-name = DevaIMatras;
-}
-);
+.appVersion = "976";
 copyright = "Copyright 2015 The Lalezar Project Authors (https://github.com/BornaIz/Lalezar)";
 customParameters = (
 {
@@ -66,7 +60,14 @@ name = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_arab_1 {
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb circumflexbelowcomb dotbelowcomb ogonekcomb horncomb slashlongcomb slashshortcomb strokelongcomb strokeshortcomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
+} ccmp_Other_1;
+
+lookup ccmp_arab_1 {
 	script arab;
 	lookupflag 0;
 	sub beh-ar.medi yehFarsi-ar.fina by beh_yehFarsi-ar.fina.liga;
@@ -215,10 +216,15 @@ lookup ccmp_latn_1 {
 
 lookup ccmp_latn_2 {
 	script latn;
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb circumflexbelowcomb dotbelowcomb ogonekcomb horncomb slashlongcomb slashshortcomb strokelongcomb strokeshortcomb];
-	sub [i]' @CombiningTopAccents by [idotless];
-	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
 } ccmp_latn_2;
 
 lookup ccmp_latn_3 {
@@ -233,19 +239,6 @@ lookup ccmp_latn_3 {
 	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
 } ccmp_latn_3;
-
-lookup ccmp_latn_4 {
-	script latn;
-	lookupflag 0;
-	sub brevecomb acutecomb by brevecomb_acutecomb;
-	sub brevecomb gravecomb by brevecomb_gravecomb;
-	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
-	sub brevecomb tildecomb by brevecomb_tildecomb;
-	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
-	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
-	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
-	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-} ccmp_latn_4;
 ";
 name = ccmp;
 notes = "lookup arab_comb {\012	sub hamzaabove-ar damma-ar by hamzaaboveDamma-ar;\012	sub damma-ar hamzaabove-ar by hamzaaboveDamma-ar;\012	sub hamzaabove-ar dammatan-ar by hamzaaboveDammatan-ar;\012	sub dammatan-ar hamzaabove-ar by hamzaaboveDammatan-ar;\012	sub hamzaabove-ar fatha-ar by hamzaaboveFatha-ar;\012	sub fatha-ar hamzaabove-ar by hamzaaboveFatha-ar;\012	sub hamzaabove-ar fathatan-ar by hamzaaboveFathatan-ar;\012	sub fathatan-ar hamzaabove-ar by hamzaaboveFathatan-ar;\012	sub hamzaabove-ar sukun-ar by hamzaaboveSukun-ar;\012	sub sukun-ar hamzaabove-ar by hamzaaboveSukun-ar;\012	sub hamzabelow-ar kasra-ar by hamzabelowKasra-ar;\012	sub kasra-ar hamzabelow-ar by hamzabelowKasra-ar;\012	sub hamzabelow-ar kasratan-ar by hamzabelowKasratan-ar;\012	sub kasratan-ar hamzabelow-ar by hamzabelowKasratan-ar;\012	sub shadda-ar alefabove-ar by shaddaAlefabove-ar;\012	sub alefabove-ar shadda-ar by shaddaAlefabove-ar;\012	sub shadda-ar damma-ar by shaddaDamma-ar;\012	sub damma-ar shadda-ar by shaddaDamma-ar;\012	sub shadda-ar dammatan-ar by shaddaDammatan-ar;\012	sub dammatan-ar shadda-ar by shaddaDammatan-ar;\012	sub shadda-ar fatha-ar by shaddaFatha-ar;\012	sub fatha-ar shadda-ar by shaddaFatha-ar;\012	sub shadda-ar fathatan-ar by shaddaFathatan-ar;\012	sub fathatan-ar shadda-ar by shaddaFathatan-ar;\012	sub shadda-ar kasra-ar by shaddaKasra-ar;\012	sub kasra-ar shadda-ar by shaddaKasra-ar;\012	sub shadda-ar kasratan-ar by shaddaKasratan-ar;\012	sub kasratan-ar shadda-ar by shaddaKasratan-ar;\012} arab_comb;\012";
@@ -526,6 +519,134 @@ sub f f by f_f;
 sub f l by fl;
 sub T h by T_h.liga;";
 name = liga;
+},
+{
+automatic = 1;
+code = "sub alef-ar by alef-ar.fina;
+sub alefHamzaabove-ar by alefHamzaabove-ar.fina;
+sub alefHamzabelow-ar by alefHamzabelow-ar.fina;
+sub uni0672 by uni0672.fina;
+sub uni0673 by uni0673.fina;
+sub alefMadda-ar by alefMadda-ar.fina;
+sub alefWasla-ar by alefWasla-ar.fina;
+sub dotlessbeh-ar by dotlessbeh-ar.fina;
+sub beh-ar by beh-ar.fina;
+sub peh-ar by peh-ar.fina;
+sub teh-ar by teh-ar.fina;
+sub theh-ar by theh-ar.fina;
+sub tteh-ar by tteh-ar.fina;
+sub jeem-ar by jeem-ar.fina;
+sub tcheh-ar by tcheh-ar.fina;
+sub hah-ar by hah-ar.fina;
+sub khah-ar by khah-ar.fina;
+sub dal-ar by dal-ar.fina;
+sub thal-ar by thal-ar.fina;
+sub ddal-ar by ddal-ar.fina;
+sub reh-ar by reh-ar.fina;
+sub zain-ar by zain-ar.fina;
+sub rreh-ar by rreh-ar.fina;
+sub jeh-ar by jeh-ar.fina;
+sub seen-ar by seen-ar.fina;
+sub sheen-ar by sheen-ar.fina;
+sub sad-ar by sad-ar.fina;
+sub dad-ar by dad-ar.fina;
+sub tah-ar by tah-ar.fina;
+sub zah-ar by zah-ar.fina;
+sub ain-ar by ain-ar.fina;
+sub ghain-ar by ghain-ar.fina;
+sub feh-ar by feh-ar.fina;
+sub veh-ar by veh-ar.fina;
+sub dotlessfeh-ar by dotlessfeh-ar.fina;
+sub dotlessqaf-ar by dotlessqaf-ar.fina;
+sub qaf-ar by qaf-ar.fina;
+sub kaf-ar by kaf-ar.fina;
+sub keheh-ar by keheh-ar.fina;
+sub gaf-ar by gaf-ar.fina;
+sub lam-ar by lam-ar.fina;
+sub meem-ar by meem-ar.fina;
+sub noon-ar by noon-ar.fina;
+sub noonghunna-ar by noonghunna-ar.fina;
+sub heh-ar by heh-ar.fina;
+sub hehgoal-ar by hehgoal-ar.fina;
+sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.fina;
+sub hehDoachashmee-ar by hehDoachashmee-ar.fina;
+sub tehMarbuta-ar by tehMarbuta-ar.fina;
+sub tehMarbutagoal-ar by tehMarbutagoal-ar.fina;
+sub waw-ar by waw-ar.fina;
+sub wawHamzaabove-ar by wawHamzaabove-ar.fina;
+sub alefMaksura-ar by alefMaksura-ar.fina;
+sub yeh-ar by yeh-ar.fina;
+sub yehHamzaabove-ar by yehHamzaabove-ar.fina;
+sub yehbarree-ar by yehbarree-ar.fina;
+sub yehbarreeHamzaabove-ar by yehbarreeHamzaabove-ar.fina;
+sub lam_alef-ar by lam_alef-ar.fina;
+sub lam_alefHamzaabove-ar by lam_alefHamzaabove-ar.fina;
+sub lam_alefHamzabelow-ar by lam_alefHamzabelow-ar.fina;
+sub lam_alefMadda-ar by lam_alefMadda-ar.fina;
+sub lam_alefWasla-ar by lam_alefWasla-ar.fina;
+sub beh_meem-ar by beh_meem-ar.fina;
+sub beh_alefMaksura-ar by beh_alefMaksura-ar.fina;
+sub beh_yehHamzaabove-ar by beh_yehHamzaabove-ar.fina;
+sub peh_meem-ar by peh_meem-ar.fina;
+sub peh_yeh-ar by peh_yeh-ar.fina;
+sub peh_yehHamzaabove-ar by peh_yehHamzaabove-ar.fina;
+sub teh_meem-ar by teh_meem-ar.fina;
+sub teh_alefMaksura-ar by teh_alefMaksura-ar.fina;
+sub teh_yeh-ar by teh_yeh-ar.fina;
+sub teh_yehHamzaabove-ar by teh_yehHamzaabove-ar.fina;
+sub theh_meem-ar by theh_meem-ar.fina;
+sub theh_alefMaksura-ar by theh_alefMaksura-ar.fina;
+sub theh_yeh-ar by theh_yeh-ar.fina;
+sub theh_yehHamzaabove-ar by theh_yehHamzaabove-ar.fina;
+sub khah_alefMaksura-ar by khah_alefMaksura-ar.fina;
+sub khah_yehHamzaabove-ar by khah_yehHamzaabove-ar.fina;
+sub seen_reh-ar by seen_reh-ar.fina;
+sub seen_meem-ar by seen_meem-ar.fina;
+sub seen_alefMaksura-ar by seen_alefMaksura-ar.fina;
+sub seen_yeh-ar by seen_yeh-ar.fina;
+sub seen_yehHamzaabove-ar by seen_yehHamzaabove-ar.fina;
+sub sheen_reh-ar by sheen_reh-ar.fina;
+sub sheen_meem-ar by sheen_meem-ar.fina;
+sub sheen_alefMaksura-ar by sheen_alefMaksura-ar.fina;
+sub sheen_yeh-ar by sheen_yeh-ar.fina;
+sub sheen_yehHamzaabove-ar by sheen_yehHamzaabove-ar.fina;
+sub sad_reh-ar by sad_reh-ar.fina;
+sub sad_zain-ar by sad_zain-ar.fina;
+sub sad_meem-ar by sad_meem-ar.fina;
+sub sad_yeh-ar by sad_yeh-ar.fina;
+sub sad_yehHamzaabove-ar by sad_yehHamzaabove-ar.fina;
+sub dad_reh-ar by dad_reh-ar.fina;
+sub dad_zain-ar by dad_zain-ar.fina;
+sub dad_meem-ar by dad_meem-ar.fina;
+sub dad_alefMaksura-ar by dad_alefMaksura-ar.fina;
+sub dad_yeh-ar by dad_yeh-ar.fina;
+sub dad_yehHamzaabove-ar by dad_yehHamzaabove-ar.fina;
+sub feh_alefMaksura-ar by feh_alefMaksura-ar.fina;
+sub qaf_alefMaksura-ar by qaf_alefMaksura-ar.fina;
+sub kaf_alefMaksura-ar by kaf_alefMaksura-ar.fina;
+sub kaf_yeh-ar by kaf_yeh-ar.fina;
+sub kaf_yehHamzaabove-ar by kaf_yehHamzaabove-ar.fina;
+sub gaf_alefMaksura-ar by gaf_alefMaksura-ar.fina;
+sub gaf_yeh-ar by gaf_yeh-ar.fina;
+sub gaf_yehHamzaabove-ar by gaf_yehHamzaabove-ar.fina;
+sub lam_alefMaksura-ar by lam_alefMaksura-ar.fina;
+sub lam_yeh-ar by lam_yeh-ar.fina;
+sub lam_yehHamzaabove-ar by lam_yehHamzaabove-ar.fina;
+sub meem_reh-ar by meem_reh-ar.fina;
+sub meem_zain-ar by meem_zain-ar.fina;
+sub noon_meem-ar by noon_meem-ar.fina;
+sub noon_alefMaksura-ar by noon_alefMaksura-ar.fina;
+sub noon_yeh-ar by noon_yeh-ar.fina;
+sub noon_yehHamzaabove-ar by noon_yehHamzaabove-ar.fina;
+sub yeh_meem-ar by yeh_meem-ar.fina;
+sub yehHamzaabove_meem-ar by yehHamzaabove_meem-ar.fina;
+sub yehHamzaabove_alefMaksura-ar by yehHamzaabove_alefMaksura-ar.fina;
+sub yehHamzaabove_yeh-ar by yehHamzaabove_yeh-ar.fina;
+sub yehHamzaabove_yehHamzaabove-ar by yehHamzaabove_yehHamzaabove-ar.fina;
+sub uighurkirghizyehHamzaabove_alefMaksura-ar by uighurkirghizyehHamzaabove_alefMaksura-ar.fina;
+sub yehFarsi-ar by yehFarsi-ar.fina;
+";
+name = fina;
 }
 );
 fontMaster = (
