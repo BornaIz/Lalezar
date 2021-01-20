@@ -1,5 +1,5 @@
 {
-.appVersion = "976";
+.appVersion = "1352";
 copyright = "Copyright 2015 The Lalezar Project Authors (https://github.com/BornaIz/Lalezar)";
 customParameters = (
 {
@@ -15380,9 +15380,11 @@ position = "{128, 373}";
 );
 components = (
 {
+alignment = -1;
 name = "dotlessbeh-ar.init";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, -34, -149}";
 }
@@ -15859,10 +15861,12 @@ position = "{353, 474}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 243, -37}";
 },
 {
+alignment = -1;
 name = "hah-ar.comb";
 }
 );
@@ -15889,10 +15893,12 @@ position = "{353, 474}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 225, -45}";
 },
 {
+alignment = -1;
 name = "hah-ar.fina.comb";
 }
 );
@@ -16026,10 +16032,12 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{0.686, 0, 0, 0.686, 244, -12}";
 },
 {
+alignment = -1;
 name = "hah-ar.comb";
 }
 );
@@ -16056,10 +16064,12 @@ position = "{353, 474}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{0.686, 0, 0, 0.686, 225, -14}";
 },
 {
+alignment = -1;
 name = "hah-ar.fina.comb";
 }
 );
@@ -18067,9 +18077,11 @@ position = "{148, 436}";
 );
 components = (
 {
+alignment = -1;
 name = "reh-ar.comb";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 29, 357}";
 }
@@ -18093,9 +18105,11 @@ position = "{168, 420}";
 );
 components = (
 {
+alignment = -1;
 name = "reh-ar.fina.comb";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 49, 341}";
 }
@@ -18164,9 +18178,11 @@ position = "{108, 563}";
 );
 components = (
 {
+alignment = -1;
 name = "reh-ar.comb";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, -55, 358}";
 }
@@ -27505,9 +27521,11 @@ position = "{197, 510}";
 );
 components = (
 {
+alignment = -1;
 name = "hehgoal-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 20, 428}";
 }
@@ -29530,10 +29548,12 @@ position = "{133, 321}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 transform = "{1, 0, 0, 1, -5, 0}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 240, -91}";
 }
@@ -29574,10 +29594,12 @@ position = "{156, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 50, 416}";
 },
 {
+alignment = -1;
 name = "beh_reh-ar.fina";
 transform = "{1, 0, 0, 1, 5, 0}";
 }
@@ -29618,9 +29640,11 @@ position = "{166, 236}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 386, -152}";
 }
@@ -29668,9 +29692,11 @@ transform = "{1, 0, 0, 1, 625, -300}";
 };
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 386, -152}";
 }
@@ -29805,9 +29831,11 @@ position = "{133, 348}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.medi.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 246, -152}";
 }
@@ -30065,9 +30093,11 @@ position = "{133, 348}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.init.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 266, -152}";
 }
@@ -30218,14 +30248,17 @@ position = "{300, 463}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 transform = "{1, 0, 0, 1, -1, 0}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 655, -91}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 }
@@ -30266,9 +30299,11 @@ position = "{126, 295}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.medi.dlig";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 343, -138}";
 }
@@ -30308,9 +30343,11 @@ position = "{133, 292}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.init.dot";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 343, -108}";
 }
@@ -30351,9 +30388,11 @@ position = "{126, 295}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.medi.dlig";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 363, -188}";
 }
@@ -30392,9 +30431,11 @@ position = "{294, 453}";
 );
 components = (
 {
+alignment = -1;
 name = "_Part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 520, -58}";
 }
@@ -30433,10 +30474,12 @@ position = "{393, 453}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 635, -58}";
 },
 {
+alignment = -1;
 name = "_part.beh_hehDoachashmee-ar";
 transform = "{1, 0, 0, 1, -20, 0}";
 }
@@ -30475,9 +30518,11 @@ position = "{243, 276}";
 );
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 564, -225}";
 }
@@ -30517,9 +30562,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina.dotless";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 587, -215}";
 }
@@ -30641,13 +30688,16 @@ position = "{278, 252}";
 );
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 568, -215}";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 95, -372}";
 }
@@ -30687,9 +30737,11 @@ position = "{278, 252}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 90, -376}";
 }
@@ -30729,9 +30781,11 @@ position = "{243, 276}";
 );
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 568, -215}";
 }
@@ -30770,6 +30824,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar";
 },
 {
@@ -30812,6 +30867,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina";
 },
 {
@@ -30854,10 +30910,12 @@ position = "{135, 311}";
 );
 components = (
 {
+alignment = -1;
 name = "_part_beh_yehbarree-ar";
 transform = "{1, 0, 0, 1, -10, 0}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1.1, 0, 0, 1.1, 180, -385}";
 }
@@ -30896,9 +30954,11 @@ position = "{140, 224}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1.1, 0, 0, 1.1, 180, -364}";
 }
@@ -30937,9 +30997,11 @@ position = "{112, 570}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 96, -135}";
 }
@@ -30978,9 +31040,11 @@ position = "{121, 795}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 96, -135}";
 },
@@ -31024,9 +31088,11 @@ position = "{110, 737}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 96, -135}";
 },
@@ -31070,9 +31136,11 @@ position = "{133, 321}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 206, -107}";
 }
@@ -31112,13 +31180,16 @@ position = "{132, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 26, 416}";
 },
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 206, -107}";
 }
@@ -31158,9 +31229,11 @@ position = "{166, 236}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 259, -192}";
 }
@@ -31199,9 +31272,11 @@ position = "{172, 236}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 249, -192}";
 }
@@ -31241,9 +31316,11 @@ position = "{133, 348}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.init.liga";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 119, -192}";
 }
@@ -31283,9 +31360,11 @@ position = "{133, 348}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.medi.liga";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 119, -192}";
 }
@@ -31326,13 +31405,16 @@ position = "{295, 497}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 626, -107}";
 }
@@ -31371,9 +31453,11 @@ position = "{153, 272}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.medi.dotless";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 326, -147}";
 }
@@ -31412,10 +31496,12 @@ position = "{153, 272}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 306, -67}";
 },
 {
+alignment = -1;
 name = "be_heh-ar.init.dlig";
 }
 );
@@ -31453,9 +31539,11 @@ position = "{294, 453}";
 );
 components = (
 {
+alignment = -1;
 name = "_Part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 470, -51}";
 }
@@ -31494,9 +31582,11 @@ position = "{393, 453}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 616, -51}";
 }
@@ -31535,9 +31625,11 @@ position = "{186, 276}";
 );
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 460, -299}";
 }
@@ -31576,9 +31668,11 @@ position = "{243, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "peh_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 95, -372}";
 }
@@ -31617,9 +31711,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "peh_yehFarsi-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 90, -376}";
 }
@@ -31659,6 +31755,7 @@ position = "{193, 478}";
 );
 components = (
 {
+alignment = -1;
 name = "peh_alefMaksura-ar";
 },
 {
@@ -31744,9 +31841,11 @@ position = "{135, 311}";
 );
 components = (
 {
+alignment = -1;
 name = "_part_beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 117, -383}";
 }
@@ -31785,9 +31884,11 @@ position = "{140, 224}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 155, -356}";
 }
@@ -32133,6 +32234,7 @@ position = "{112, 408}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
@@ -32225,9 +32327,11 @@ position = "{166, 236}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 271, 541}";
 }
@@ -32267,9 +32371,11 @@ position = "{155, 248}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 235, 461}";
 }
@@ -32310,9 +32416,11 @@ position = "{48, 464}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.medi.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 105, 479}";
 }
@@ -32354,9 +32462,11 @@ position = "{79, 308}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.init.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 151, 541}";
 }
@@ -32397,13 +32507,16 @@ position = "{300, 463}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 454, 445}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 }
@@ -32443,10 +32556,12 @@ position = "{120, 391}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 165, 439}";
 },
 {
+alignment = -1;
 name = "be_heh-ar.medi.dlig";
 }
 );
@@ -32487,9 +32602,11 @@ position = "{123, 272}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.init.dot";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 233, 466}";
 }
@@ -32529,9 +32646,11 @@ position = "{265, 450}";
 );
 components = (
 {
+alignment = -1;
 name = "_Part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 448, 434}";
 }
@@ -32570,9 +32689,11 @@ position = "{414, 453}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 576, 429}";
 }
@@ -32623,9 +32744,11 @@ transform = "{1, 0, 0, 1, 461, 457}";
 };
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 461, 457}";
 }
@@ -32665,9 +32788,11 @@ position = "{278, 296}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina.dotless";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 403, 476}";
 }
@@ -32708,9 +32833,11 @@ position = "{307, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "teh_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -32750,9 +32877,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "teh_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -32793,6 +32922,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "teh_alefMaksura-ar";
 },
 {
@@ -32835,6 +32965,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "teh_alefMaksura-ar.fina";
 },
 {
@@ -32878,9 +33009,11 @@ position = "{86, 275}";
 );
 components = (
 {
+alignment = -1;
 name = "_part_beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 106, 413}";
 }
@@ -32919,9 +33052,11 @@ position = "{130, 219}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 147, 461}";
 }
@@ -33275,9 +33410,11 @@ position = "{93, 336}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 168, 451}";
 }
@@ -33318,13 +33455,16 @@ position = "{63, 535}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 168, 451}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, -25, 415}";
 }
@@ -33365,9 +33505,11 @@ position = "{141, 264}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 266, 566}";
 }
@@ -33407,9 +33549,11 @@ position = "{158, 284}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 256, 492}";
 }
@@ -33450,9 +33594,11 @@ position = "{93, 303}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.medi.liga";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 105, 500}";
 }
@@ -33494,9 +33640,11 @@ position = "{93, 336}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.init.liga";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 128, 566}";
 }
@@ -33537,13 +33685,16 @@ position = "{296, 512}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 453, 441}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 }
@@ -33583,9 +33734,11 @@ position = "{83, 326}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.medi.dlig";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 175, 438}";
 }
@@ -33670,9 +33823,11 @@ position = "{294, 453}";
 );
 components = (
 {
+alignment = -1;
 name = "_Part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 424, 432}";
 }
@@ -33711,9 +33866,11 @@ position = "{393, 453}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 574, 452}";
 }
@@ -33774,9 +33931,11 @@ transform = "{1, 0, 0, 1, 461, 465}";
 };
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 461, 465}";
 }
@@ -33816,9 +33975,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina.dotless";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 399, 485}";
 }
@@ -33859,9 +34020,11 @@ position = "{307, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "theh_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -33901,9 +34064,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "theh_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -33944,6 +34109,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "theh_alefMaksura-ar";
 },
 {
@@ -33986,6 +34152,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "theh_alefMaksura-ar.fina";
 },
 {
@@ -34029,9 +34196,11 @@ position = "{65, 448}";
 );
 components = (
 {
+alignment = -1;
 name = "_part_beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 94, 432}";
 }
@@ -34070,9 +34239,11 @@ position = "{130, 219}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 147, 477}";
 }
@@ -34336,13 +34507,16 @@ position = "{300, 463}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 },
 {
+alignment = -1;
 name = "tahabove-ar";
 transform = "{1, 0, 0, 1, 651, -47}";
 }
@@ -34423,6 +34597,7 @@ position = "{360, 431}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_hehDoachashmee-ar";
 },
 {
@@ -34588,9 +34763,11 @@ position = "{130, 219}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "tahabove-ar";
 transform = "{1, 0, 0, 1, 371, -23}";
 }
@@ -34629,9 +34806,11 @@ position = "{130, 219}";
 );
 components = (
 {
+alignment = -1;
 name = "hah_yehbarree-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 233, -354}";
 }
@@ -34666,9 +34845,11 @@ position = "{46, 165}";
 );
 components = (
 {
+alignment = -1;
 name = "hah_yehbarree-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 179, -373}";
 }
@@ -34922,9 +35103,11 @@ position = "{307, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "hah_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 605, 593}";
 }
@@ -35026,9 +35209,11 @@ position = "{307, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "khah_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 90, -376}";
 }
@@ -35068,6 +35253,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "khah_alefMaksura-ar";
 },
 {
@@ -35152,9 +35338,11 @@ position = "{59, 186}";
 );
 components = (
 {
+alignment = -1;
 name = "hah_yehbarree-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 215, 543}";
 }
@@ -36804,9 +36992,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 117, -372}";
 }
@@ -36846,9 +37036,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 117, -372}";
 }
@@ -36993,13 +37185,16 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = "seen_dotless_beh_reh-ar.alt";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 30, 416}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 235, -91}";
 }
@@ -37039,9 +37234,11 @@ position = "{131, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_reh-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 25, 416}";
 }
@@ -37082,9 +37279,11 @@ position = "{161, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_reh-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 55, 416}";
 }
@@ -37675,9 +37874,11 @@ position = "{175, 301}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_reh-ar";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 453, 451}";
 }
@@ -37718,9 +37919,11 @@ position = "{175, 301}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_reh-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 483, 451}";
 }
@@ -37762,13 +37965,16 @@ position = "{141, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_reh-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 35, 416}";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 483, 451}";
 }
@@ -37809,13 +38015,16 @@ position = "{161, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_reh-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 55, 416}";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 453, 451}";
 }
@@ -37855,9 +38064,11 @@ position = "{167, 244}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_meem-ar";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 683, 451}";
 }
@@ -37897,9 +38108,11 @@ position = "{167, 244}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_meem-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 653, 451}";
 }
@@ -37940,9 +38153,11 @@ position = "{296, 395}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_meem-ar.medi";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 523, 451}";
 }
@@ -37984,9 +38199,11 @@ position = "{313, 395}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_meem-ar.init";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 563, 461}";
 }
@@ -38027,9 +38244,11 @@ position = "{130, 258}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_heh-ar.medi";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 493, 461}";
 }
@@ -38071,9 +38290,11 @@ position = "{130, 258}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_heh-ar.init";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 493, 461}";
 }
@@ -38114,9 +38335,11 @@ position = "{130, 258}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_heh-ar.medi";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 493, 461}";
 }
@@ -38157,9 +38380,11 @@ position = "{130, 258}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_heh-ar.init";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 493, 461}";
 }
@@ -38199,9 +38424,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 773, 451}";
 }
@@ -38241,10 +38468,12 @@ position = "{268, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 773, 451}";
 },
 {
+alignment = -1;
 name = "seen_alefMaksura-ar.fina";
 }
 );
@@ -38284,9 +38513,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "sheen_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 117, -372}";
 }
@@ -38326,13 +38557,16 @@ position = "{268, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "sheen_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 },
 {
+alignment = -1;
 name = connection_r;
 transform = "{1, 0, 0, 1, 1235, 0}";
 }
@@ -38373,6 +38607,7 @@ position = "{193, 473}";
 );
 components = (
 {
+alignment = -1;
 name = "sheen_alefMaksura-ar";
 },
 {
@@ -38415,6 +38650,7 @@ position = "{193, 480}";
 );
 components = (
 {
+alignment = -1;
 name = "sheen_alefMaksura-ar.fina";
 },
 {
@@ -38458,9 +38694,11 @@ position = "{294, 345}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_yehbarree-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 463, 451}";
 }
@@ -38499,9 +38737,11 @@ position = "{294, 345}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_yehbarree-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 463, 451}";
 }
@@ -38738,9 +38978,11 @@ position = "{151, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_reh-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 45, 416}";
 }
@@ -38780,9 +39022,11 @@ position = "{131, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_reh-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 25, 416}";
 }
@@ -39871,9 +40115,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 117, -372}";
 }
@@ -39913,9 +40159,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_alefMaksura-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 117, -372}";
 }
@@ -40256,9 +40504,11 @@ position = "{173, 301}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_reh-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 678, 564}";
 }
@@ -40299,9 +40549,11 @@ position = "{173, 301}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_reh-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 676, 565}";
 }
@@ -40343,13 +40595,16 @@ position = "{141, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_reh-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 668, 553}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 35, 416}";
 }
@@ -40389,13 +40644,16 @@ position = "{141, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_reh-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 689, 559}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 35, 416}";
 }
@@ -40436,9 +40694,11 @@ position = "{418, 394}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_meem-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 843, 566}";
 }
@@ -40478,9 +40738,11 @@ position = "{167, 244}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_meem-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 833, 566}";
 }
@@ -40520,13 +40782,16 @@ position = "{250, 397}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_meem-ar.medi";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 674, 566}";
 },
 {
+alignment = -1;
 name = connection_r;
 transform = "{1, 0, 0, 1, 1038, 0}";
 }
@@ -40567,9 +40832,11 @@ position = "{295, 395}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_meem-ar.init";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 674, 566}";
 }
@@ -40610,10 +40877,12 @@ position = "{334, 346}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 690, 562}";
 },
 {
+alignment = -1;
 name = "sad_heh-ar.medi.liga";
 }
 );
@@ -40653,13 +40922,16 @@ position = "{334, 346}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_heh-ar.init.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 698, 559}";
 },
 {
+alignment = -1;
 name = connection_l;
 }
 );
@@ -40698,9 +40970,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 942, 561}";
 }
@@ -40740,9 +41014,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_alefMaksura-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 936, 562}";
 }
@@ -40783,13 +41059,16 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 941, 564}";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -40829,9 +41108,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "dad_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -40872,9 +41153,11 @@ position = "{186, 478}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 934, 562}";
 },
@@ -40918,9 +41201,11 @@ position = "{185, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_alefMaksura-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 940, 562}";
 },
@@ -40964,10 +41249,12 @@ position = "{278, 345}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 574, 561}";
 },
 {
+alignment = -1;
 name = "sad_yehbarree-ar.fina.liga";
 }
 );
@@ -41005,10 +41292,12 @@ position = "{278, 345}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 574, 561}";
 },
 {
+alignment = -1;
 name = "sad_yehbarree-ar.liga";
 }
 );
@@ -41381,10 +41670,12 @@ transform = "{1, 0, 0, 1, 512, 543}";
 };
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 502, 536}";
 },
 {
+alignment = -1;
 name = "tah_yehbarree-ar.fina.liga";
 }
 );
@@ -41430,9 +41721,11 @@ transform = "{1, 0, 0, 1, 512, 543}";
 };
 components = (
 {
+alignment = -1;
 name = "tah_yehbarree-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 502, 536}";
 }
@@ -41771,9 +42064,11 @@ transform = "{1, 0, 0, 1, 333, 626}";
 };
 components = (
 {
+alignment = -1;
 name = "ain_yehbarree-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 405, 568}";
 }
@@ -41909,9 +42204,11 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = "ain_yehbarree-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 333, 626}";
 }
@@ -41974,9 +42271,11 @@ position = "{297, 266}";
 };
 components = (
 {
+alignment = -1;
 name = feh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 550, 547}";
 }
@@ -41988,9 +42287,11 @@ width = 879;
 associatedMasterId = "5483B82D-F897-45AA-9987-2D1C58E320E8";
 components = (
 {
+alignment = -1;
 name = feh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 575, 559}";
 }
@@ -42062,9 +42363,11 @@ width = 879;
 associatedMasterId = "5483B82D-F897-45AA-9987-2D1C58E320E8";
 components = (
 {
+alignment = -1;
 name = feh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 575, 559}";
 }
@@ -42105,9 +42408,11 @@ position = "{297, 266}";
 );
 components = (
 {
+alignment = -1;
 name = "feh_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -42147,6 +42452,7 @@ position = "{185, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "feh_alefMaksura-ar";
 },
 {
@@ -42354,9 +42660,11 @@ position = "{156, 205}";
 );
 components = (
 {
+alignment = -1;
 name = "_feh_yehbarree-ar.fina.dotless";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 320, 547}";
 }
@@ -42546,9 +42854,11 @@ position = "{297, 266}";
 );
 components = (
 {
+alignment = -1;
 name = feh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 493, 512}";
 }
@@ -42647,9 +42957,11 @@ position = "{297, 266}";
 );
 components = (
 {
+alignment = -1;
 name = "qaf_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 117, -379}";
 }
@@ -42689,6 +43001,7 @@ position = "{181, 478}";
 );
 components = (
 {
+alignment = -1;
 name = "qaf_alefMaksura-ar";
 },
 {
@@ -42842,10 +43155,12 @@ position = "{156, 205}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 257, 542}";
 },
 {
+alignment = -1;
 name = "_feh_yehbarree-ar.fina.dotless";
 }
 );
@@ -43141,9 +43456,11 @@ position = "{307, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "kaf_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -43183,9 +43500,11 @@ position = "{307, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "kaf_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -43596,9 +43915,11 @@ position = "{307, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "kaf_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -44110,9 +44431,11 @@ position = "{157, 307}";
 );
 components = (
 {
+alignment = -1;
 name = "lam_alefMaksura_meem-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 373, -188}";
 }
@@ -44159,9 +44482,11 @@ position = "{157, 307}";
 );
 components = (
 {
+alignment = -1;
 name = "lam_alefMaksura_meem-ar";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 314, -197}";
 }
@@ -44208,9 +44533,11 @@ position = "{157, 307}";
 );
 components = (
 {
+alignment = -1;
 name = "lam_alefMaksura_meem-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{0.909, 0, 0, 0.909, 275, 492}";
 }
@@ -44257,9 +44584,11 @@ position = "{157, 307}";
 );
 components = (
 {
+alignment = -1;
 name = "lam_alefMaksura_meem-ar";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 256, 492}";
 }
@@ -44562,9 +44891,11 @@ position = "{157, 307}";
 );
 components = (
 {
+alignment = -1;
 name = "lam_alefMaksura_meem-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 311, 512}";
 }
@@ -44839,9 +45170,11 @@ position = "{320, 309}";
 );
 components = (
 {
+alignment = -1;
 name = "lam_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -44881,9 +45214,11 @@ position = "{320, 309}";
 );
 components = (
 {
+alignment = -1;
 name = "lam_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -44931,9 +45266,11 @@ position = "{157, 307}";
 );
 components = (
 {
+alignment = -1;
 name = "lam_alefMaksura_meem-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 344, -217}";
 }
@@ -45644,9 +45981,11 @@ position = "{137, 474}";
 );
 components = (
 {
+alignment = -1;
 name = "meem_reh-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 11, 364}";
 }
@@ -45686,9 +46025,11 @@ position = "{137, 474}";
 );
 components = (
 {
+alignment = -1;
 name = "meem_reh-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 11, 364}";
 }
@@ -46131,9 +46472,11 @@ position = "{103, 600}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 214, 462}";
 }
@@ -46172,9 +46515,11 @@ position = "{121, 795}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 214, 462}";
 },
@@ -46218,9 +46563,11 @@ position = "{100, 567}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 214, 462}";
 },
@@ -46264,9 +46611,11 @@ position = "{110, 737}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 214, 462}";
 },
@@ -46310,9 +46659,11 @@ position = "{150, 337}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 161, 462}";
 }
@@ -46353,13 +46704,16 @@ position = "{141, 495}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 271, 462}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 35, 416}";
 }
@@ -46400,9 +46754,11 @@ position = "{142, 293}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 317, 576}";
 }
@@ -46442,9 +46798,11 @@ position = "{167, 310}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 319, 514}";
 }
@@ -46485,9 +46843,11 @@ position = "{83, 337}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.medi.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 181, 527}";
 }
@@ -46529,9 +46889,11 @@ position = "{107, 393}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.init.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 187, 576}";
 }
@@ -46572,13 +46934,16 @@ position = "{316, 504}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 618, 461}";
 }
@@ -46618,13 +46983,16 @@ position = "{316, 504}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 684, 460}";
 }
@@ -46663,9 +47031,11 @@ position = "{120, 391}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.medi.dlig";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 232, 460}";
 }
@@ -46707,9 +47077,11 @@ position = "{133, 292}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.init.dot";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 294, 469}";
 }
@@ -46750,9 +47122,11 @@ position = "{251, 436}";
 );
 components = (
 {
+alignment = -1;
 name = "_Part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 490, 469}";
 }
@@ -46791,9 +47165,11 @@ position = "{349, 436}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 643, 469}";
 }
@@ -46832,9 +47208,11 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 560, 476}";
 }
@@ -46874,9 +47252,11 @@ position = "{278, 295}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina.dotless";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 486, 515}";
 }
@@ -46917,9 +47297,11 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = "noon_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -46959,9 +47341,11 @@ position = "{278, 298}";
 );
 components = (
 {
+alignment = -1;
 name = "noon_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -47002,6 +47386,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "noon_alefMaksura-ar";
 },
 {
@@ -47044,6 +47429,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "noon_alefMaksura-ar.fina";
 },
 {
@@ -47087,9 +47473,11 @@ position = "{119, 287}";
 );
 components = (
 {
+alignment = -1;
 name = "_part_beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1.1, 0, 0, 1.1, 139, 455}";
 }
@@ -47128,10 +47516,12 @@ position = "{153, 239}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 229, 472}";
 },
 {
+alignment = -1;
 name = "_part.beh_yehbarree-ar";
 }
 );
@@ -47561,9 +47951,11 @@ position = "{299, 531}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 }
@@ -47602,9 +47994,11 @@ position = "{190, 336}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 208, -113}";
 }
@@ -47645,13 +48039,16 @@ position = "{135, 492}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 29, 413}";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 208, -113}";
 }
@@ -47692,9 +48089,11 @@ position = "{151, 274}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 264, -217}";
 }
@@ -47734,9 +48133,11 @@ position = "{133, 264}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 304, -217}";
 }
@@ -47777,9 +48178,11 @@ position = "{57, 304}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.medi.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 174, -217}";
 }
@@ -47821,9 +48224,11 @@ position = "{75, 336}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.init.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 124, -217}";
 }
@@ -47864,13 +48269,16 @@ position = "{291, 496}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 618, -103}";
 }
@@ -47910,9 +48318,11 @@ position = "{101, 350}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.medi.dlig";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 328, -123}";
 }
@@ -47953,9 +48363,11 @@ position = "{101, 288}";
 );
 components = (
 {
+alignment = -1;
 name = "be_heh-ar.init.dot";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 315, -63}";
 }
@@ -47996,9 +48408,11 @@ position = "{115, 600}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 77, -126}";
 }
@@ -48037,9 +48451,11 @@ position = "{121, 795}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 77, -126}";
 },
@@ -48161,9 +48577,11 @@ position = "{110, 737}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 77, -126}";
 },
@@ -48207,10 +48625,12 @@ position = "{311, 311}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 transform = "{1, 0, 0, 1, -10, 0}";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 618, -103}";
 }
@@ -48249,9 +48669,11 @@ position = "{251, 422}";
 );
 components = (
 {
+alignment = -1;
 name = "_Part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 482, -65}";
 }
@@ -48290,9 +48712,11 @@ position = "{377, 437}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_hehDoachashmee-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 616, -65}";
 }
@@ -48331,9 +48755,11 @@ position = "{143, 249}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 170, -381}";
 }
@@ -48372,9 +48798,11 @@ position = "{92, 282}";
 );
 components = (
 {
+alignment = -1;
 name = "_part_beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 150, -381}";
 }
@@ -48706,9 +49134,11 @@ position = "{147, 556}";
 );
 components = (
 {
+alignment = -1;
 name = "beh-re.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 25, 416}";
 },
@@ -48930,9 +49360,11 @@ position = "{300, 463}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 },
@@ -49108,6 +49540,7 @@ position = "{377, 419}";
 );
 components = (
 {
+alignment = -1;
 name = "_part.beh_hehDoachashmee-ar";
 },
 {
@@ -49128,9 +49561,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "hamzaabove-ar";
 transform = "{1, 0, 0, 1, 705, 20}";
 }
@@ -49214,9 +49649,11 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = "yehHamzaabove_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -49256,9 +49693,11 @@ position = "{278, 295}";
 );
 components = (
 {
+alignment = -1;
 name = "yehHamzaabove_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 107, -372}";
 }
@@ -49299,6 +49738,7 @@ position = "{193, 482}";
 );
 components = (
 {
+alignment = -1;
 name = "yehHamzaabove_alefMaksura-ar";
 },
 {
@@ -49439,6 +49879,7 @@ transform = "{1, 0, 0, 1, 380, 19}";
 };
 components = (
 {
+alignment = -1;
 name = "_part.beh_yehbarree-ar";
 },
 {
@@ -49481,6 +49922,7 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = "yehHamzaabove_alefMaksura-ar";
 }
 );
@@ -52366,6 +52808,7 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina";
 }
 );
@@ -52405,6 +52848,7 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar";
 }
 );
@@ -52444,9 +52888,11 @@ position = "{278, 276}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina.dotless";
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 487, -289}";
 }
@@ -52485,9 +52931,11 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, 487, -289}";
 }
@@ -52526,9 +52974,11 @@ position = "{253, 308}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina.dotless";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 413, 496}";
 }
@@ -52568,9 +53018,11 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 467, 474}";
 }
@@ -52609,9 +53061,11 @@ position = "{255, 302}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina.dotless";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 409, 495}";
 }
@@ -52651,9 +53105,11 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 467, 481}";
 }
@@ -52803,10 +53259,12 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = connection_r;
 transform = "{1, 0, 0, 1, 1235, 0}";
 },
 {
+alignment = -1;
 name = "seen_alefMaksura-ar.fina";
 }
 );
@@ -53335,9 +53793,11 @@ position = "{315, 301}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_alefMaksura-ar.fina";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 773, 461}";
 }
@@ -53377,9 +53837,11 @@ position = "{315, 297}";
 );
 components = (
 {
+alignment = -1;
 name = "seen_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, 773, 461}";
 }
@@ -53507,9 +53969,11 @@ position = "{308, 306}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_alefMaksura-ar.fina.liga";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 946, 562}";
 }
@@ -53548,9 +54012,11 @@ position = "{298, 306}";
 );
 components = (
 {
+alignment = -1;
 name = "sad_alefMaksura-ar";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 942, 561}";
 }
@@ -53620,9 +54086,11 @@ width = 879;
 associatedMasterId = "5483B82D-F897-45AA-9987-2D1C58E320E8";
 components = (
 {
+alignment = -1;
 name = feh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 575, 559}";
 }
@@ -53662,9 +54130,11 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = feh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 575, 559}";
 }
@@ -53676,9 +54146,11 @@ width = 879;
 associatedMasterId = "5483B82D-F897-45AA-9987-2D1C58E320E8";
 components = (
 {
+alignment = -1;
 name = feh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 575, 559}";
 }
@@ -53776,9 +54248,11 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = feh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 513, 532}";
 }
@@ -54178,9 +54652,11 @@ position = "{298, 306}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alefMaksura-ar.fina.dotless";
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 486, 525}";
 }
@@ -54220,9 +54696,11 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = beh_alefMaksura.liga;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 560, 476}";
 }
@@ -54304,6 +54782,7 @@ position = "{308, 284}";
 );
 components = (
 {
+alignment = -1;
 name = "yehHamzaabove_alefMaksura-ar";
 }
 );
@@ -55350,6 +55829,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1.295, 0, 0, 1.295, -12, 276}";
 }
@@ -62508,6 +62988,7 @@ position = "{0, 570}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, -119, 491}";
 }
@@ -62535,6 +63016,7 @@ position = "{0, -90}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, -119, 0}";
 }
@@ -62723,6 +63205,7 @@ position = "{0, 550}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, -184, 469}";
 }
@@ -62750,6 +63233,7 @@ position = "{0, -80}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, -184, 0}";
 }
@@ -62777,6 +63261,7 @@ position = "{0, 535}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, -183, 446}";
 }
@@ -62804,6 +63289,7 @@ position = "{0, -206}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-three-b";
 transform = "{1, 0, 0, 1, -184, 0}";
 }
@@ -62831,6 +63317,7 @@ position = "{0, 541}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, -183, 336}";
 }
@@ -62858,6 +63345,7 @@ position = "{0, -211}";
 );
 components = (
 {
+alignment = -1;
 name = "dot-three-a";
 transform = "{1, 0, 0, 1, -183, -50}";
 }
@@ -65143,9 +65631,11 @@ position = "{347, 309}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 628, -113}";
 }
@@ -65184,13 +65674,16 @@ position = "{291, 496}";
 );
 components = (
 {
+alignment = -1;
 name = beh_noon;
 },
 {
+alignment = -1;
 name = "dot-one";
 transform = "{1, 0, 0, 1, 194, 384}";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 628, -113}";
 }
@@ -65229,9 +65722,11 @@ position = "{116, 338}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_meem-ar.liga";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 294, -217}";
 }
@@ -65270,9 +65765,11 @@ position = "{123, 346}";
 );
 components = (
 {
+alignment = -1;
 name = "_part_beh_yehbarree-ar";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 150, -381}";
 }
@@ -65311,6 +65808,7 @@ position = "{151, 336}";
 );
 components = (
 {
+alignment = -1;
 name = "yeh_reh-ar.fina";
 }
 );
@@ -66649,13 +67147,13 @@ nodes = (
 );
 }
 );
-width = 1183;
 userData = {
 PartSelection = {
 crotchDepth = 2;
 shoulderWidth = 2;
 };
 };
+width = 1183;
 },
 {
 anchors = (
@@ -66719,13 +67217,13 @@ nodes = (
 );
 }
 );
-width = 1183;
 userData = {
 PartSelection = {
 crotchDepth = 2;
 shoulderWidth = 1;
 };
 };
+width = 1183;
 },
 {
 anchors = (
@@ -66789,13 +67287,13 @@ nodes = (
 );
 }
 );
-width = 1183;
 userData = {
 PartSelection = {
 crotchDepth = 1;
 shoulderWidth = 2;
 };
 };
+width = 1183;
 }
 );
 partsSettings = (
@@ -66894,9 +67392,11 @@ position = "{115, 600}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 77, -126}";
 }
@@ -66935,9 +67435,11 @@ position = "{121, 795}";
 );
 components = (
 {
+alignment = -1;
 name = "beh_alef-ar.liga.dotless";
 },
 {
+alignment = -1;
 name = "dot-two";
 transform = "{1, 0, 0, 1, 77, -126}";
 },
